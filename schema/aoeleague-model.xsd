@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" jaxb:version="2.0">
+	<xs:element name="aoeLeague">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="players" type="player" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="history" type="history" minOccurs="0" />
+			</xs:sequence>
+			<xs:attribute name="updatedTime" type="xs:dateTime" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="updateLogData">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="updateLogs" type="updateLog" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="updatedTime" type="xs:dateTime" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="graphData">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="newbieGraphs" type="newbieGraph" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="updatedTime" type="xs:dateTime" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="team">
+		<xs:sequence>
+			<xs:element name="players" type="player" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="teampoint" type="xs:double" use="optional"/>
+		<xs:attribute name="numOfShang" type="xs:int" use="optional"/>
+	</xs:complexType>
+	<xs:complexType name="match">
+		<xs:sequence>
+			<xs:element name="groupId" type="xs:string" minOccurs="0"/>
+			<xs:element name="map" type="xs:string" minOccurs="0"/>
+			<xs:element name="team1" type="team" minOccurs="0"/>
+			<xs:element name="team2" type="team" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:string"/>
+		<xs:attribute name="result" type="xs:string"/>
+		<xs:attribute name="matchPoint" type="xs:double"/>
+		<xs:attribute name="date" type="xs:dateTime" use="optional"/>
+		<xs:attribute name="solo" type="xs:boolean" use="optional"/>
+	</xs:complexType>
+	<xs:complexType name="player">
+		<xs:sequence>
+			<xs:element name="avatar" type="xs:string" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"/>
+		<xs:attribute name="name" type="xs:string"/>
+		<xs:attribute name="rank" type="xs:int"/>
+		<xs:attribute name="playerPoint" type="xs:double"/>
+		<xs:attribute name="top" type="xs:int"/>
+		<xs:attribute name="type" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="playerInfo">
+		<xs:sequence>
+			<xs:element name="avatar" type="xs:string" minOccurs="0"/>
+			<xs:element name="performance" type="xs:string" minOccurs="0"/>
+			<xs:element name="bestPlayWith" type="player" minOccurs="0"/>
+			<xs:element name="totalResult" type="playerAnalysis" minOccurs="0"/>
+			<xs:element name="soloResult" type="playerAnalysis" minOccurs="0"/>
+			<xs:element name="teamResult" type="playerAnalysis" minOccurs="0"/>
+			<xs:element name="recentResult" type="playerAnalysis" minOccurs="0"/>
+			<xs:element name="recentSoloResult" type="playerAnalysis" minOccurs="0"/>
+			<xs:element name="recentTeamResult" type="playerAnalysis" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"/>
+		<xs:attribute name="name" type="xs:string"/>
+		<xs:attribute name="rank" type="xs:int"/>
+		<xs:attribute name="playerPoint" type="xs:double"/>
+		<xs:attribute name="top" type="xs:int"/>
+		<xs:attribute name="type" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="playerAnalysis">
+		<xs:sequence>
+			<xs:element name="matchQuantity" type="xs:int"/>
+			<xs:element name="winQuantity" type="xs:int"/>
+			<xs:element name="loseQuantity" type="xs:int"/>
+			<xs:element name="winRateQuantity" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="nickName">
+		<xs:attribute name="id" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="aoeRequest">
+		<xs:sequence>
+			<xs:element name="matchIndex" type="xs:int" minOccurs="0"/>
+			<xs:element name="inputText" type="xs:string" minOccurs="0"/>
+			<xs:element name="name" type="xs:string" minOccurs="0"/>
+			<xs:element name="score" type="xs:string" minOccurs="0"/>
+			<xs:element name="match" type="match" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="aoeResponse">
+		<xs:sequence>
+			<xs:element name="status" type="xs:string" minOccurs="0"/>
+			<xs:element name="errorText" type="xs:string" minOccurs="0"/>
+			<xs:element name="matchList" type="match" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="text" type="xs:string" minOccurs="0"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="updateLog">
+		<xs:sequence>
+			<xs:element name="updatePlayers" type="updatePlayer" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"/>
+		<xs:attribute name="matchId" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="updatePlayer">
+		<xs:sequence>
+			<xs:element name="old" type="updatePlayerInfo" minOccurs="0"/>
+			<xs:element name="new" type="updatePlayerInfo" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"/>
+	</xs:complexType>
+	<xs:complexType name="updatePlayerInfo">
+		<xs:attribute name="rank" type="xs:int"/>
+		<xs:attribute name="playerPoint" type="xs:double"/>
+		<xs:attribute name="top" type="xs:int"/>
+		<xs:attribute name="type" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="newbieGraph">
+		<xs:sequence>
+			<xs:element name="newbieGraphElements" type="newbieGraphElement" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="playerId" type="xs:int"/>
+	</xs:complexType>
+	<xs:complexType name="newbieGraphElement">
+		<xs:attribute name="matchId" type="xs:string"/>
+		<xs:attribute name="result" type="xs:int"/>
+		<xs:attribute name="assumedPlayerPoint" type="xs:double"/>
+	</xs:complexType>
+	<xs:complexType name="history">
+		<xs:sequence>
+			<xs:element name="matches" type="match" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

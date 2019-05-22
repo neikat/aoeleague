@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+<title>Chia keo AOE</title>
+<link rel="stylesheet" href="../public/css/player_info.css"
+	th:href="@{/css/player_info.css}" />
+<script src="../public/js/jquery-3.1.0.min.js"
+	th:src="@{/js/jquery-3.1.0.min.js}"></script>
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="../public/js/table.js" th:src="@{/js/table.js}"></script>
+</head>
+<body class="body-match">
+	<div class="container" style="margin-top: 20px;">
+		<div class="row" style="height: 50px;">
+			
+		</div>
+
+		<div class="row">
+			<a href="/aoe"><button class="btn btn-primary" >Chia kèo</button></a>
+			<div class="well player-theme-background"
+				style="max-height: 600px; overflow: auto;">
+				<div class="row">
+					<table class="table table-bordered match-label table-players text-center">
+						<thead>
+							<tr>
+								<th class="col-xs-1 col-sm-1 col-md-1 col-lg-1 text-center">Rank</th>
+								<th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Player</th>
+								<th class="col-xs-1 col-sm-1 col-md-1 col-lg-1 text-center">Top</th>
+								<th class="col-xs-1 col-sm-1 col-md-1 col-lg-1 text-center">Won</th>
+								<th class="col-xs-1 col-sm-1 col-md-1 col-lg-1 text-center">Total Plays</th>
+								<th class="col-xs-1 col-sm-1 col-md-1 col-lg-1 text-center">Win Rate</th>
+								<th class="col-xs-2 col-sm-2 col-md-2 col-lg-2 text-center">Recent Team Performance</th>
+								<th class="col-xs-1 col-sm-1 col-md-1 col-lg-1 text-center">Point</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr th:each="player: ${players}" >
+								<td class="text-right" th:text="${player.rank}"></td>
+                                <td class="text-left"><a class="match-label" th:href="@{/player(id=${player.id})}" th:text="${player.name}"></a></td>
+                                <td th:switch="${player.top}">
+                                	<span th:case="'1'" th:text="${player.top}" class="label label-danger"></span>
+                                	<span th:case="'2'" th:text="${player.top}" class="label label-primary"></span>
+                                	<span th:case="'3'" th:text="${player.top}" class="label label-info"></span>
+                                	<span th:case="'4'" th:text="${player.top}" class="label label-default"></span>
+                                </td>
+                                <td th:text="${player.totalResult.winQuantity}"></td>
+                                <td th:text="${player.totalResult.matchQuantity}"></td>
+                                <td><span th:text="${player.totalResult.winRateQuantity}"></span> %</td>
+                                <td th:switch="${player.performance}">
+                                	<span th:case="'Superb'" th:text="${player.performance}" class="label label-success"></span>
+                                	<span th:case="'Good'" th:text="${player.performance}" class="label label-primary"></span>
+                                	<span th:case="'Normal'" th:text="${player.performance}" class="label label-default"></span>
+                                	<span th:case="'Poor'" th:text="${player.performance}" class="label label-warning"></span>
+                                	<span th:case="'Disappointed'" th:text="${player.performance}" class="label label-danger"></span>
+                                	<span th:case="'Keep Fighting'" th:text="${player.performance}" class="label label-danger"></span>
+                                </td>
+                                <td th:text="${player.playerPoint}"></td>
+                            </tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+</body>
+</html>

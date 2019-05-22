@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updateLogData updatedTime="2017-03-03T09:57:24.943+07:00">
+    <updateLogs matchId="20170209_150941_717_00">
+        <updatePlayers id="21">
+            <old rank="22" playerPoint="13.919207692745706" top="3"/>
+            <new playerPoint="13.929497461385195"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.514844025316466" top="4"/>
+            <new playerPoint="4.494264488037488"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170209_151201_815_00">
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.053326341418476" top="2"/>
+            <new playerPoint="22.05591236497114"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.494264488037488" top="4"/>
+            <new playerPoint="4.489092440932173"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170209_184435_561_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.47743289880306" top="1"/>
+            <new playerPoint="32.60906722067709"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.329100882942647" top="2"/>
+            <new playerPoint="28.197466561068612"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="25.431426407482302" top="2"/>
+            <new playerPoint="25.563060729356337"/>
+        </updatePlayers>
+        <updatePlayers id="10">
+            <old rank="10" playerPoint="24.18023669209057" top="2"/>
+            <new playerPoint="24.048602370216535"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="13" playerPoint="20.362525532933322" top="2"/>
+            <new playerPoint="20.494159854807357"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="15" playerPoint="17.126210848658538" top="3"/>
+            <new playerPoint="16.994576526784503"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.970239001500966" top="3"/>
+            <new playerPoint="15.83860467962693"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.489092440932173" top="4"/>
+            <new playerPoint="4.752361084680242"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_120745_435_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.60906722067709" top="1"/>
+            <new playerPoint="32.51196213742547"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.197466561068612" top="2"/>
+            <new playerPoint="28.294571644320236"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="25.563060729356337" top="2"/>
+            <new playerPoint="25.66016581260796"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.05591236497114" top="2"/>
+            <new playerPoint="21.958807281719515"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="15" playerPoint="16.994576526784503" top="3"/>
+            <new playerPoint="17.091681610036126"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.83860467962693" top="3"/>
+            <new playerPoint="15.741499596375307"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_130838_630_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.51196213742547" top="1"/>
+            <new playerPoint="32.69860054132782"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.294571644320236" top="2"/>
+            <new playerPoint="28.10793324041788"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="26.44710713725826" top="2"/>
+            <new playerPoint="26.633745541160618"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="25.66016581260796" top="2"/>
+            <new playerPoint="25.473527408705603"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="21.958807281719515" top="2"/>
+            <new playerPoint="21.77216887781716"/>
+        </updatePlayers>
+        <updatePlayers id="15">
+            <old rank="14" playerPoint="17.2" top="3"/>
+            <new rank="15"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="15" playerPoint="17.091681610036126" top="3"/>
+            <new rank="14" playerPoint="17.278320013938483"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="18" playerPoint="16.185445847639976" top="3"/>
+            <new playerPoint="16.372084251542333"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.741499596375307" top="3"/>
+            <new playerPoint="15.55486119247295"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_184401_023_00">
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.68980998298534" top="2"/>
+            <new playerPoint="27.67732188300653"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="25.473527408705603" top="2"/>
+            <new playerPoint="25.486015508684414"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_184411_390_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.313872186070256" top="1"/>
+            <new playerPoint="39.31388967112492"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.752361084680242" top="4"/>
+            <new playerPoint="4.7523261145709155"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_184420_870_00">
+        <updatePlayers id="14">
+            <old rank="14" playerPoint="17.278320013938483" top="3"/>
+            <new playerPoint="17.2810535733705"/>
+        </updatePlayers>
+        <updatePlayers id="22">
+            <old rank="24" playerPoint="4.900076233029454" top="4"/>
+            <new playerPoint="4.894609114165419"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_184430_726_00">
+        <updatePlayers id="2">
+            <old rank="3" playerPoint="33.0865557852063" top="1"/>
+            <new playerPoint="33.13432401920186"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.69860054132782" top="1"/>
+            <new playerPoint="32.65083230733226"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_190649_629_00">
+        <updatePlayers id="2">
+            <old rank="3" playerPoint="33.13432401920186" top="1"/>
+            <new playerPoint="33.0732417342326"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.65083230733226" top="1"/>
+            <new playerPoint="32.71191459230152"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.10793324041788" top="2"/>
+            <new playerPoint="28.04685095544862"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="26.633745541160618" top="2"/>
+            <new playerPoint="26.69482782612988"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170210_191424_710_00">
+        <updatePlayers id="2">
+            <old rank="3" playerPoint="33.0732417342326" top="1"/>
+            <new playerPoint="33.02116296697241"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.71191459230152" top="1"/>
+            <new playerPoint="32.76399335956171"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170213_154213_131_00">
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.04685095544862" top="2"/>
+            <new playerPoint="28.085011616412004"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="21.77216887781716" top="2"/>
+            <new playerPoint="21.734008216853773"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170213_154220_031_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.76399335956171" top="1"/>
+            <new playerPoint="32.73939366220615"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.085011616412004" top="2"/>
+            <new playerPoint="28.10961131376757"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170213_191113_590_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.73939366220615" top="1"/>
+            <new playerPoint="32.843203025290016"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.10961131376757" top="2"/>
+            <new playerPoint="28.005801950683708"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="26.69482782612988" top="2"/>
+            <new playerPoint="26.59101846304602"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="21.734008216853773" top="2"/>
+            <new playerPoint="21.837817579937635"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170213_201304_608_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.843203025290016" top="1"/>
+            <new playerPoint="32.76791835657789"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.005801950683708" top="2"/>
+            <new playerPoint="28.081086619395837"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170214_131611_496_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.76791835657789" top="1"/>
+            <new playerPoint="32.969015978926656"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="28.081086619395837" top="2"/>
+            <new playerPoint="27.879988997047068"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.67732188300653" top="2"/>
+            <new playerPoint="27.476224260657762"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="26.59101846304602" top="2"/>
+            <new playerPoint="26.792116085394788"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="25.486015508684414" top="2"/>
+            <new playerPoint="25.284917886335645"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="21.837817579937635" top="2"/>
+            <new playerPoint="22.038915202286404"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170214_131626_473_00">
+        <updatePlayers id="14">
+            <old rank="14" playerPoint="17.2810535733705" top="3"/>
+            <new playerPoint="17.28634435118797"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.7523261145709155" top="4"/>
+            <new playerPoint="4.741744558935975"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170214_193225_176_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.31388967112492" top="1"/>
+            <new playerPoint="39.274827378419744"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="3" playerPoint="33.02116296697241" top="1"/>
+            <new rank="4"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="32.969015978926656" top="1"/>
+            <new rank="5"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="5" playerPoint="27.879988997047068" top="2"/>
+            <new rank="6" playerPoint="27.840926704341893"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.476224260657762" top="2"/>
+            <new rank="7" playerPoint="27.515286553362937"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="26.792116085394788" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="8" playerPoint="26.425218397129722" top="2"/>
+            <new rank="9"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="25.284917886335645" top="2"/>
+            <new rank="10" playerPoint="25.32398017904082"/>
+        </updatePlayers>
+        <updatePlayers id="10">
+            <old rank="10" playerPoint="24.048602370216535" top="2"/>
+            <new rank="11" playerPoint="24.00954007751136"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="11" playerPoint="22.40881944039561" top="2"/>
+            <new rank="12"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.038915202286404" top="2"/>
+            <new rank="13"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="13" playerPoint="20.494159854807357" top="2"/>
+            <new rank="14"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="14" playerPoint="17.28634435118797" top="3"/>
+            <new rank="15"/>
+        </updatePlayers>
+        <updatePlayers id="15">
+            <old rank="15" playerPoint="17.2" top="3"/>
+            <new rank="16"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="16" playerPoint="16.53131274988052" top="3"/>
+            <new rank="17"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="17" playerPoint="16.487550617556515" top="3"/>
+            <new rank="18"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="18" playerPoint="16.372084251542333" top="3"/>
+            <new rank="19" playerPoint="16.411146544247508"/>
+        </updatePlayers>
+        <updatePlayers id="25">
+            <old rank="19" playerPoint="16.041401440523018" top="3"/>
+            <new rank="20"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.55486119247295" top="3"/>
+            <new rank="21"/>
+        </updatePlayers>
+        <updatePlayers id="20">
+            <old rank="21" playerPoint="14.0" top="3"/>
+            <new rank="22"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="22" playerPoint="13.929497461385195" top="3"/>
+            <new rank="23"/>
+        </updatePlayers>
+        <updatePlayers id="26">
+            <old rank="23" playerPoint="11.969125531543854" top="3"/>
+            <new rank="24"/>
+        </updatePlayers>
+        <updatePlayers id="22">
+            <old rank="24" playerPoint="4.894609114165419" top="4"/>
+            <new rank="25"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.741744558935975" top="4"/>
+            <new rank="26" playerPoint="4.663619973525626"/>
+        </updatePlayers>
+        <updatePlayers id="24">
+            <old rank="26" playerPoint="4.0749367646275765" top="4"/>
+            <new rank="27"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old playerPoint="33.0" top="1"/>
+            <new rank="3" playerPoint="33.039062292705175"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170214_193715_823_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.274827378419744" top="1"/>
+            <new playerPoint="39.09572528646931"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="3" playerPoint="33.039062292705175" top="1"/>
+            <new playerPoint="33.21816438465561"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.840926704341893" top="2"/>
+            <new rank="7" playerPoint="27.661824612391463"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.515286553362937" top="2"/>
+            <new rank="6" playerPoint="27.694388645313367"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.32398017904082" top="2"/>
+            <new playerPoint="25.50308227099125"/>
+        </updatePlayers>
+        <updatePlayers id="10">
+            <old rank="11" playerPoint="24.00954007751136" top="2"/>
+            <new playerPoint="23.83043798556093"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.494159854807357" top="2"/>
+            <new playerPoint="20.315057762856927"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="17" playerPoint="16.53131274988052" top="3"/>
+            <new rank="18"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="18" playerPoint="16.487550617556515" top="3"/>
+            <new rank="19"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="19" playerPoint="16.411146544247508" top="3"/>
+            <new rank="17" playerPoint="16.590248636197938"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170214_193731_715_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.09572528646931" top="1"/>
+            <new playerPoint="39.091319401104045"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.02116296697241" top="1"/>
+            <new playerPoint="33.02556885233768"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.969015978926656" top="1"/>
+            <new playerPoint="32.97342186429192"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="7" playerPoint="27.661824612391463" top="2"/>
+            <new playerPoint="27.657418727026197"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170215_141438_842_00">
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.02556885233768" top="1"/>
+            <new rank="5"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.97342186429192" top="1"/>
+            <new rank="4" playerPoint="33.059852788172165"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.694388645313367" top="2"/>
+            <new rank="7" playerPoint="27.60795772143312"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="7" playerPoint="27.657418727026197" top="2"/>
+            <new rank="6" playerPoint="27.743849650906444"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.50308227099125" top="2"/>
+            <new playerPoint="25.416651347111003"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="22.038915202286404" top="2"/>
+            <new playerPoint="21.952484278406157"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="15" playerPoint="17.28634435118797" top="3"/>
+            <new rank="16" playerPoint="17.199913427307724"/>
+        </updatePlayers>
+        <updatePlayers id="15">
+            <old rank="16" playerPoint="17.2" top="3"/>
+            <new rank="15"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="17" playerPoint="16.590248636197938" top="3"/>
+            <new playerPoint="16.676679560078185"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="18" playerPoint="16.53131274988052" top="3"/>
+            <new rank="19"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="19" playerPoint="16.487550617556515" top="3"/>
+            <new rank="18" playerPoint="16.573981541436762"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170215_183909_458_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.091319401104045" top="1"/>
+            <new playerPoint="38.99156147666196"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="35.21816438465561" top="1"/>
+            <new playerPoint="36.21816438465561"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.36251859566723" top="1"/>
+            <new playerPoint="33.46227652010932"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.743849650906444" top="2"/>
+            <new playerPoint="27.644091726464353"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.792116085394788" top="2"/>
+            <new playerPoint="26.692358160952697"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.952484278406157" top="2"/>
+            <new playerPoint="22.052242202848248"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.315057762856927" top="2"/>
+            <new playerPoint="20.41481568729902"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="17.199913427307724" top="3"/>
+            <new playerPoint="17.100155502865633"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170215_191624_372_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.99156147666196" top="1"/>
+            <new playerPoint="39.07938779963087"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.21816438465561" top="1"/>
+            <new playerPoint="36.07963717910891"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.46227652010932" top="1"/>
+            <new playerPoint="33.374450197140405"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="33.059852788172165" top="1"/>
+            <new playerPoint="33.14767911114108"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.644091726464353" top="2"/>
+            <new rank="7" playerPoint="27.556265403495434"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.60795772143312" top="2"/>
+            <new rank="6"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.692358160952697" top="2"/>
+            <new playerPoint="26.780184483921616"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.40881944039561" top="2"/>
+            <new playerPoint="22.320993117426692"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="22.052242202848248" top="2"/>
+            <new playerPoint="22.140068525817167"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170215_191857_201_00">
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.60795772143312" top="2"/>
+            <new rank="7" playerPoint="27.545604523722798"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="7" playerPoint="27.556265403495434" top="2"/>
+            <new rank="6"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.416651347111003" top="2"/>
+            <new playerPoint="25.479004544821326"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170216_134244_169_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.07963717910891" top="1"/>
+            <new playerPoint="35.75220595581471"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="33.14767911114108" top="1"/>
+            <new playerPoint="33.24892860297935"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.556265403495434" top="2"/>
+            <new playerPoint="27.6575148953337"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.545604523722798" top="2"/>
+            <new playerPoint="27.44435503188453"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.479004544821326" top="2"/>
+            <new playerPoint="25.580254036659593"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="22.140068525817167" top="2"/>
+            <new playerPoint="22.0388190339789"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="17.100155502865633" top="3"/>
+            <new playerPoint="16.998906011027366"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="18" playerPoint="16.573981541436762" top="3"/>
+            <new playerPoint="16.67523103327503"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170216_181855_132_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="35.75220595581471" top="1"/>
+            <new playerPoint="37.00237261087105"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="33.24892860297935" top="1"/>
+            <new rank="5" playerPoint="33.070714909111956"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="5" playerPoint="33.02556885233768" top="1"/>
+            <new rank="4" playerPoint="33.20378254620507"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.6575148953337" top="2"/>
+            <new playerPoint="27.47930120146631"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="16.998906011027366" top="3"/>
+            <new playerPoint="16.820692317159974"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170216_183856_007_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.00237261087105" top="1"/>
+            <new playerPoint="36.76489067564343"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.20378254620507" top="1"/>
+            <new playerPoint="33.324228503403816"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.070714909111956" top="1"/>
+            <new playerPoint="33.1911608663107"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.47930120146631" top="2"/>
+            <new rank="7" playerPoint="27.358855244267563"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.44435503188453" top="2"/>
+            <new rank="6"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.41481568729902" top="2"/>
+            <new playerPoint="20.29436973010027"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="16.820692317159974" top="3"/>
+            <new playerPoint="16.94113827435872"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170216_192610_382_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.76489067564343" top="1"/>
+            <new playerPoint="36.645034160732266"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.374450197140405" top="1"/>
+            <new playerPoint="33.49236173867079"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.324228503403816" top="1"/>
+            <new playerPoint="33.4421400449342"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.1911608663107" top="1"/>
+            <new playerPoint="33.07324932478032"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.44435503188453" top="2"/>
+            <new rank="7"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="7" playerPoint="27.358855244267563" top="2"/>
+            <new rank="6" playerPoint="27.476766785797945"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.320993117426692" top="2"/>
+            <new playerPoint="22.20308157589631"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.29436973010027" top="2"/>
+            <new playerPoint="20.17645818856989"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="16.94113827435872" top="3"/>
+            <new playerPoint="17.059049815889104"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170216_195024_151_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.645034160732266" top="1"/>
+            <new playerPoint="36.800953110169736"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.49236173867079" top="1"/>
+            <new rank="4" playerPoint="33.40183649592866"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.4421400449342" top="1"/>
+            <new rank="3" playerPoint="33.53266528767632"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.07324932478032" top="1"/>
+            <new playerPoint="33.163774567522445"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.476766785797945" top="2"/>
+            <new rank="7" playerPoint="27.386241543055817"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.44435503188453" top="2"/>
+            <new rank="6"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.780184483921616" top="2"/>
+            <new playerPoint="26.870709726663744"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.20308157589631" top="2"/>
+            <new playerPoint="22.293606818638438"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="17.059049815889104" top="3"/>
+            <new playerPoint="16.968524573146976"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170217_124741_299_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.07938779963087" top="1"/>
+            <new playerPoint="38.99156634959754"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.800953110169736" top="1"/>
+            <new playerPoint="36.63686113008267"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.163774567522445" top="1"/>
+            <new playerPoint="33.25159601755578"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.44435503188453" top="2"/>
+            <new playerPoint="27.3565335818512"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="7" playerPoint="27.386241543055817" top="2"/>
+            <new playerPoint="27.298420093022486"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.870709726663744" top="2"/>
+            <new playerPoint="26.958531176697075"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="22.0388190339789" top="2"/>
+            <new playerPoint="21.95099758394557"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.17645818856989" top="2"/>
+            <new playerPoint="20.26427963860322"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170217_131013_339_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.63686113008267" top="1"/>
+            <new playerPoint="36.389233673739426"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.25159601755578" top="1"/>
+            <new playerPoint="33.320152952136674"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170217_182925_314_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.99156634959754" top="1"/>
+            <new playerPoint="39.18159961885414"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.389233673739426" top="1"/>
+            <new playerPoint="36.53535341335423"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="4" playerPoint="33.40183649592866" top="1"/>
+            <new rank="5" playerPoint="33.21180322667206"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.320152952136674" top="1"/>
+            <new rank="4" playerPoint="33.510186221393276"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="6" playerPoint="27.3565335818512" top="2"/>
+            <new rank="7" playerPoint="27.16650031259459"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="7" playerPoint="27.298420093022486" top="2"/>
+            <new rank="6" playerPoint="27.488453362279095"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.293606818638438" top="2"/>
+            <new playerPoint="22.103573549381828"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.26427963860322" top="2"/>
+            <new playerPoint="20.45431290785983"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170217_191559_350_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.18159961885414" top="1"/>
+            <new playerPoint="39.07754627465053"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="33.510186221393276" top="1"/>
+            <new playerPoint="33.40613287718966"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="5" playerPoint="33.21180322667206" top="1"/>
+            <new playerPoint="33.315856570875674"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.488453362279095" top="2"/>
+            <new playerPoint="27.59250670648271"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.958531176697075" top="2"/>
+            <new playerPoint="27.062584520900693"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.103573549381828" top="2"/>
+            <new playerPoint="22.20762689358544"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.45431290785983" top="2"/>
+            <new playerPoint="20.350259563656216"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="16.968524573146976" top="3"/>
+            <new playerPoint="16.86447122894336"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170218_121507_976_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="33.40613287718966" top="1"/>
+            <new playerPoint="33.4620944756663"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.425218397129722" top="2"/>
+            <new playerPoint="26.369256798653087"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.95099758394557" top="2"/>
+            <new playerPoint="21.895035985468933"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="23" playerPoint="13.929497461385195" top="3"/>
+            <new playerPoint="13.985459059861828"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170218_142842_815_00">
+        <updatePlayers id="4">
+            <old rank="4" playerPoint="33.4620944756663" top="1"/>
+            <new rank="5" playerPoint="33.1374334168276"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="5" playerPoint="33.315856570875674" top="1"/>
+            <new rank="4"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.59250670648271" top="2"/>
+            <new playerPoint="27.26784564764402"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.369256798653087" top="2"/>
+            <new playerPoint="26.693917857491776"/>
+        </updatePlayers>
+        <updatePlayers id="10">
+            <old rank="11" playerPoint="23.83043798556093" top="2"/>
+            <new playerPoint="23.50577692672224"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.20762689358544" top="2"/>
+            <new rank="13"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.895035985468933" top="2"/>
+            <new rank="12" playerPoint="22.219697044307622"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.350259563656216" top="2"/>
+            <new playerPoint="20.674920622494906"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="21" playerPoint="15.55486119247295" top="3"/>
+            <new playerPoint="15.879522251311645"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170218_155905_478_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.1374334168276" top="1"/>
+            <new playerPoint="33.08701951788976"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.26784564764402" top="2"/>
+            <new playerPoint="27.217431748706183"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.693917857491776" top="2"/>
+            <new playerPoint="26.64350395855394"/>
+        </updatePlayers>
+        <updatePlayers id="10">
+            <old rank="11" playerPoint="23.50577692672224" top="2"/>
+            <new playerPoint="23.556190825660078"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.219697044307622" top="2"/>
+            <new playerPoint="22.27011094324546"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.674920622494906" top="2"/>
+            <new playerPoint="20.725334521432742"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="21" playerPoint="15.879522251311645" top="3"/>
+            <new playerPoint="15.929936150249484"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170218_172534_400_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.08701951788976" top="1"/>
+            <new playerPoint="33.10550682601417"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.64350395855394" top="2"/>
+            <new playerPoint="26.625016650429526"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170220_131044_644_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="35.53535341335423" top="1"/>
+            <new playerPoint="36.768532496806976"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="3" playerPoint="33.53266528767632" top="1"/>
+            <new playerPoint="33.461680539815596"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.10550682601417" top="1"/>
+            <new playerPoint="33.034522078153444"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.217431748706183" top="2"/>
+            <new playerPoint="27.28841649656691"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170220_131053_900_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.768532496806976" top="1"/>
+            <new playerPoint="36.58984509970828"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.034522078153444" top="1"/>
+            <new playerPoint="33.10478370727139"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170220_131726_981_00">
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.16650031259459" top="2"/>
+            <new playerPoint="27.10746932090464"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.580254036659593" top="2"/>
+            <new playerPoint="25.63928502834954"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170220_185259_563_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="39.07754627465053" top="1"/>
+            <new playerPoint="38.9822832031244"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.58984509970828" top="1"/>
+            <new playerPoint="36.51101453097856"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.10478370727139" top="1"/>
+            <new playerPoint="33.00952063574526"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.28841649656691" top="2"/>
+            <new playerPoint="27.383679568093036"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.10746932090464" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="27.062584520900693" top="2"/>
+            <new rank="7" playerPoint="27.15784759242682"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="22.20762689358544" top="2"/>
+            <new playerPoint="22.112363822059315"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.725334521432742" top="2"/>
+            <new playerPoint="20.82059759295887"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="16.86447122894336" top="3"/>
+            <new playerPoint="16.769208157417232"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_092344_785_00">
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="27.15784759242682" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="8" playerPoint="27.10746932090464" top="2"/>
+            <new rank="7" playerPoint="27.190725387894794"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.63928502834954" top="2"/>
+            <new playerPoint="25.556028961359388"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_124353_043_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.51101453097856" top="1"/>
+            <new playerPoint="36.61447093885661"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="33.00952063574526" top="1"/>
+            <new playerPoint="32.764419728831214"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.383679568093036" top="2"/>
+            <new playerPoint="27.628780475007083"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="27.190725387894794" top="2"/>
+            <new rank="8" playerPoint="26.945624480980747"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="27.15784759242682" top="2"/>
+            <new rank="7"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.27011094324546" top="2"/>
+            <new rank="13" playerPoint="22.025010036331413"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="22.112363822059315" top="2"/>
+            <new rank="12"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="16" playerPoint="16.769208157417232" top="3"/>
+            <new rank="19" playerPoint="16.524107250503185"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="17" playerPoint="16.676679560078185" top="3"/>
+            <new rank="16" playerPoint="16.92178046699223"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="18" playerPoint="16.67523103327503" top="3"/>
+            <new rank="17" playerPoint="16.920331940189076"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="19" playerPoint="16.53131274988052" top="3"/>
+            <new rank="18"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_131153_250_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.61447093885661" top="1"/>
+            <new playerPoint="36.69812572806257"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.764419728831214" top="1"/>
+            <new playerPoint="32.85330811765008"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.628780475007083" top="2"/>
+            <new playerPoint="27.539892086188217"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="8" playerPoint="26.945624480980747" top="2"/>
+            <new playerPoint="27.034512869799613"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.112363822059315" top="2"/>
+            <new rank="13"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="22.025010036331413" top="2"/>
+            <new rank="12" playerPoint="22.11389842515028"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="16" playerPoint="16.92178046699223" top="3"/>
+            <new playerPoint="17.010668855811097"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="17" playerPoint="16.920331940189076" top="3"/>
+            <new playerPoint="16.83144355137021"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="19" playerPoint="16.524107250503185" top="3"/>
+            <new playerPoint="16.43521886168432"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_181239_807_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.9822832031244" top="1"/>
+            <new playerPoint="38.86179832585327"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.69812572806257" top="1"/>
+            <new playerPoint="36.8186106053337"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="4" playerPoint="33.315856570875674" top="1"/>
+            <new playerPoint="33.436341448146806"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="27.15784759242682" top="2"/>
+            <new playerPoint="27.037362715155687"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.11389842515028" top="2"/>
+            <new rank="13" playerPoint="21.993413547879147"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="22.112363822059315" top="2"/>
+            <new rank="12"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="18" playerPoint="16.53131274988052" top="3"/>
+            <new rank="19"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="19" playerPoint="16.43521886168432" top="3"/>
+            <new rank="18" playerPoint="16.55570373895545"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_181449_158_00">
+        <updatePlayers id="5">
+            <old rank="8" playerPoint="27.034512869799613" top="2"/>
+            <new playerPoint="26.976083287638293"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.556028961359388" top="2"/>
+            <new playerPoint="25.61445854352071"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_205217_943_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.85330811765008" top="1"/>
+            <new playerPoint="32.864971951038555"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.112363822059315" top="2"/>
+            <new playerPoint="22.10069998867084"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170221_205227_173_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.864971951038555" top="1"/>
+            <new playerPoint="32.837657637189544"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.539892086188217" top="2"/>
+            <new playerPoint="27.56720640003723"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170222_130146_750_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.8186106053337" top="1"/>
+            <new playerPoint="36.81809800058751"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.837657637189544" top="1"/>
+            <new playerPoint="32.838170241935735"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.56720640003723" top="2"/>
+            <new playerPoint="27.56771900478342"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="8" playerPoint="26.976083287638293" top="2"/>
+            <new playerPoint="26.9755706828921"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.61445854352071" top="2"/>
+            <new playerPoint="25.6149711482669"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.993413547879147" top="2"/>
+            <new playerPoint="21.992900943132955"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="17" playerPoint="16.83144355137021" top="3"/>
+            <new playerPoint="16.83093094662402"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="18" playerPoint="16.55570373895545" top="3"/>
+            <new playerPoint="16.556216343701642"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170222_184351_179_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.86179832585327" top="1"/>
+            <new playerPoint="38.95561677134708"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.81809800058751" top="1"/>
+            <new playerPoint="36.7242795550937"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.838170241935735" top="1"/>
+            <new playerPoint="32.744351796441926"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.56771900478342" top="2"/>
+            <new playerPoint="27.661537450277226"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="27.037362715155687" top="2"/>
+            <new playerPoint="27.131181160649493"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.10069998867084" top="2"/>
+            <new playerPoint="22.006881543177034"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.992900943132955" top="2"/>
+            <new playerPoint="21.89908249763915"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.82059759295887" top="2"/>
+            <new playerPoint="20.914416038452675"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170223_135143_377_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.7242795550937" top="1"/>
+            <new playerPoint="36.92322924253688"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.744351796441926" top="1"/>
+            <new playerPoint="32.54540210899875"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.661537450277226" top="2"/>
+            <new playerPoint="27.86048713772041"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.6149711482669" top="2"/>
+            <new playerPoint="25.416021460823718"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.006881543177034" top="2"/>
+            <new playerPoint="21.80793185573385"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.89908249763915" top="2"/>
+            <new playerPoint="21.700132810195967"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.914416038452675" top="2"/>
+            <new playerPoint="21.113365725895857"/>
+        </updatePlayers>
+        <updatePlayers id="15">
+            <old rank="15" playerPoint="17.2" top="3"/>
+            <new rank="16"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="16" playerPoint="17.010668855811097" top="3"/>
+            <new rank="15" playerPoint="17.269303449487232"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170223_192117_425_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.95561677134708" top="1"/>
+            <new playerPoint="38.66164728827806"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="36.92322924253688" top="1"/>
+            <new playerPoint="37.2171987256059"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="3" playerPoint="33.461680539815596" top="1"/>
+            <new rank="4"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="4" playerPoint="33.436341448146806" top="1"/>
+            <new rank="3" playerPoint="33.730310931215826"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.54540210899875" top="1"/>
+            <new playerPoint="32.25143262592973"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="27.86048713772041" top="2"/>
+            <new playerPoint="28.154456620789418"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="27.131181160649493" top="2"/>
+            <new rank="8" playerPoint="26.837211677580484"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="8" playerPoint="26.9755706828921" top="2"/>
+            <new rank="7"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="21.80793185573385" top="2"/>
+            <new rank="13"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.700132810195967" top="2"/>
+            <new rank="12" playerPoint="21.994102293264977"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="21.113365725895857" top="2"/>
+            <new playerPoint="20.819396242826848"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170224_130931_715_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.2171987256059" top="1"/>
+            <new playerPoint="37.31957054909327"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.25143262592973" top="1"/>
+            <new playerPoint="32.14906080244236"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.154456620789418" top="2"/>
+            <new playerPoint="28.05208479730204"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="21.994102293264977" top="2"/>
+            <new playerPoint="22.096474116752354"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.80793185573385" top="2"/>
+            <new playerPoint="21.91030367922123"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.819396242826848" top="2"/>
+            <new playerPoint="20.71702441933947"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170224_130955_079_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.31957054909327" top="1"/>
+            <new playerPoint="37.36477935514752"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.14906080244236" top="1"/>
+            <new playerPoint="32.10385199638811"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.05208479730204" top="2"/>
+            <new playerPoint="28.006875991247792"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.096474116752354" top="2"/>
+            <new playerPoint="22.141682922806602"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.71702441933947" top="2"/>
+            <new playerPoint="20.671815613285222"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="15" playerPoint="17.269303449487232" top="3"/>
+            <new playerPoint="17.328074897357755"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170224_132107_513_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.36477935514752" top="1"/>
+            <new playerPoint="37.387725170458225"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.10385199638811" top="1"/>
+            <new playerPoint="32.0809061810774"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170224_183037_565_00">
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.730310931215826" top="1"/>
+            <new playerPoint="33.84342556429413"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.461680539815596" top="1"/>
+            <new playerPoint="33.34856590673729"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.0809061810774" top="1"/>
+            <new playerPoint="31.967791547999095"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.006875991247792" top="2"/>
+            <new playerPoint="28.1199906243261"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.837211677580484" top="2"/>
+            <new playerPoint="26.95032631065879"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.416021460823718" top="2"/>
+            <new playerPoint="25.30290682774541"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.91030367922123" top="2"/>
+            <new playerPoint="22.023418312299537"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.671815613285222" top="2"/>
+            <new playerPoint="20.558700980206915"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170224_183046_431_00">
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.84342556429413" top="1"/>
+            <new playerPoint="33.94483626275468"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.34856590673729" top="1"/>
+            <new playerPoint="33.247155208276745"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="31.967791547999095" top="1"/>
+            <new playerPoint="31.866380849538547"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.1199906243261" top="2"/>
+            <new playerPoint="28.221401322786647"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="26.9755706828921" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.95032631065879" top="2"/>
+            <new rank="7" playerPoint="27.05173700911934"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.30290682774541" top="2"/>
+            <new playerPoint="25.201496129284862"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.141682922806602" top="2"/>
+            <new playerPoint="22.24309362126715"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.558700980206915" top="2"/>
+            <new playerPoint="20.457290281746367"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170224_190458_987_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.66164728827806" top="1"/>
+            <new playerPoint="38.56153071180326"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.94483626275468" top="1"/>
+            <new playerPoint="33.84471968627987"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.247155208276745" top="1"/>
+            <new playerPoint="33.34727178475155"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="31.866380849538547" top="1"/>
+            <new playerPoint="31.96649742601335"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.221401322786647" top="2"/>
+            <new playerPoint="28.32151789926145"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="27.05173700911934" top="2"/>
+            <new rank="8" playerPoint="26.951620432644535"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="8" playerPoint="26.9755706828921" top="2"/>
+            <new rank="7"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.24309362126715" top="2"/>
+            <new playerPoint="22.343210197741953"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="21" playerPoint="15.929936150249484" top="3"/>
+            <new playerPoint="15.799784600832238"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170227_123102_310_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.387725170458225" top="1"/>
+            <new playerPoint="37.27770521669721"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="31.96649742601335" top="1"/>
+            <new playerPoint="32.076517379774366"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.32151789926145" top="2"/>
+            <new playerPoint="28.431537853022466"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.951620432644535" top="2"/>
+            <new playerPoint="26.84160047888352"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.201496129284862" top="2"/>
+            <new playerPoint="25.311516083045877"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="22.023418312299537" top="2"/>
+            <new playerPoint="21.913398358538522"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170227_130708_460_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.27770521669721" top="1"/>
+            <new playerPoint="37.44496564192831"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.076517379774366" top="1"/>
+            <new playerPoint="31.909256954543253"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.431537853022466" top="2"/>
+            <new playerPoint="28.264277427791352"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.84160047888352" top="2"/>
+            <new rank="9" playerPoint="26.674340053652408"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.625016650429526" top="2"/>
+            <new rank="8" playerPoint="26.79227707566064"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.311516083045877" top="2"/>
+            <new playerPoint="25.47877650827699"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.343210197741953" top="2"/>
+            <new playerPoint="22.17594977251084"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.913398358538522" top="2"/>
+            <new playerPoint="22.080658783769636"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170227_191153_199_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.44496564192831" top="1"/>
+            <new playerPoint="37.31758908132717"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="31.909256954543253" top="1"/>
+            <new playerPoint="32.036633515144395"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.264277427791352" top="2"/>
+            <new playerPoint="28.391653988392495"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="8" playerPoint="26.79227707566064" top="2"/>
+            <new rank="9" playerPoint="26.664900515059497"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="9" playerPoint="26.674340053652408" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.17594977251084" top="2"/>
+            <new playerPoint="22.303326333111983"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="22.080658783769636" top="2"/>
+            <new playerPoint="21.953282223168493"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="15" playerPoint="17.328074897357755" top="3"/>
+            <new playerPoint="17.493664426139244"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="21" playerPoint="15.799784600832238" top="3"/>
+            <new playerPoint="15.634195072050751"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170227_191441_673_00">
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="26.9755706828921" top="2"/>
+            <new playerPoint="26.917038730766166"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.47877650827699" top="2"/>
+            <new playerPoint="25.537308460402926"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170227_202042_517_00">
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.674340053652408" top="2"/>
+            <new rank="9"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.664900515059497" top="2"/>
+            <new rank="8" playerPoint="26.74067502713335"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.953282223168493" top="2"/>
+            <new playerPoint="21.87750771109464"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170228_095640_255_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.31758908132717" top="1"/>
+            <new playerPoint="37.34045346086647"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.036633515144395" top="1"/>
+            <new playerPoint="32.013769135605095"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170228_134341_555_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.56153071180326" top="1"/>
+            <new playerPoint="38.45587554069751"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.34045346086647" top="1"/>
+            <new playerPoint="37.446108631972216"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.013769135605095" top="1"/>
+            <new playerPoint="32.11942430671084"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.537308460402926" top="2"/>
+            <new playerPoint="25.431653289297177"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.303326333111983" top="2"/>
+            <new playerPoint="22.197671162006234"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="17" playerPoint="16.83093094662402" top="3"/>
+            <new rank="16"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="18" playerPoint="16.556216343701642" top="3"/>
+            <new rank="17" playerPoint="16.693568066139115"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="19" playerPoint="16.53131274988052" top="3"/>
+            <new rank="18"/>
+        </updatePlayers>
+        <updatePlayers id="25">
+            <old rank="20" playerPoint="16.041401440523018" top="3"/>
+            <new rank="19"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="21" playerPoint="15.634195072050751" top="3"/>
+            <new rank="20"/>
+        </updatePlayers>
+        <updatePlayers id="20">
+            <old rank="22" playerPoint="14.0" top="3"/>
+            <new rank="21"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="23" playerPoint="13.985459059861828" top="3"/>
+            <new rank="22"/>
+        </updatePlayers>
+        <updatePlayers id="26">
+            <old rank="24" playerPoint="11.969125531543854" top="3"/>
+            <new rank="23"/>
+        </updatePlayers>
+        <updatePlayers id="22">
+            <old rank="25" playerPoint="4.894609114165419" top="4"/>
+            <new rank="24"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="26" playerPoint="4.663619973525626" top="4"/>
+            <new rank="25"/>
+        </updatePlayers>
+        <updatePlayers id="24">
+            <old rank="27" playerPoint="4.0749367646275765" top="4"/>
+            <new rank="26"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170228_134418_000_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.45587554069751" top="1"/>
+            <new playerPoint="38.47803778497371"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.446108631972216" top="1"/>
+            <new playerPoint="37.42394638769602"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.34727178475155" top="1"/>
+            <new playerPoint="33.369434029027744"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.11942430671084" top="1"/>
+            <new playerPoint="32.097262062434645"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="8" playerPoint="26.74067502713335" top="2"/>
+            <new playerPoint="26.762837271409545"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.431653289297177" top="2"/>
+            <new playerPoint="25.40949104502098"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.197671162006234" top="2"/>
+            <new playerPoint="22.17550891773004"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="17" playerPoint="16.693568066139115" top="3"/>
+            <new playerPoint="16.72237898369817"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170228_182028_220_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.42394638769602" top="1"/>
+            <new playerPoint="37.39788167162963"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.84471968627987" top="1"/>
+            <new playerPoint="33.87078440234627"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.097262062434645" top="1"/>
+            <new playerPoint="32.12332677850104"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.391653988392495" top="2"/>
+            <new playerPoint="28.365589272326105"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.40949104502098" top="2"/>
+            <new playerPoint="25.38342632895459"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.87750771109464" top="2"/>
+            <new playerPoint="21.90357242716103"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="17" playerPoint="16.72237898369817" top="3"/>
+            <new playerPoint="16.756263114584478"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.634195072050751" top="3"/>
+            <new playerPoint="15.600310941164445"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170228_184005_324_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.39788167162963" top="1"/>
+            <new playerPoint="37.483367875939564"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.87078440234627" top="1"/>
+            <new playerPoint="33.78529819803633"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.12332677850104" top="1"/>
+            <new playerPoint="32.208812982810976"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.365589272326105" top="2"/>
+            <new playerPoint="28.280103068016167"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="8" playerPoint="26.762837271409545" top="2"/>
+            <new playerPoint="26.677351067099607"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.90357242716103" top="2"/>
+            <new playerPoint="21.989058631470968"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="17" playerPoint="16.756263114584478" top="3"/>
+            <new playerPoint="16.645131048981558"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.600310941164445" top="3"/>
+            <new playerPoint="15.711443006767363"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170228_201412_460_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.208812982810976" top="1"/>
+            <new playerPoint="32.26317437897617"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.280103068016167" top="2"/>
+            <new playerPoint="28.22574167185098"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="8" playerPoint="26.677351067099607" top="2"/>
+            <new rank="9" playerPoint="26.62298967093442"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="9" playerPoint="26.674340053652408" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="21.989058631470968" top="2"/>
+            <new playerPoint="22.043420027636156"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170301_140108_900_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.483367875939564" top="1"/>
+            <new playerPoint="37.690860616165565"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.26317437897617" top="1"/>
+            <new playerPoint="32.47066711920217"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.674340053652408" top="2"/>
+            <new playerPoint="26.88183279387841"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.38342632895459" top="2"/>
+            <new playerPoint="25.17593358872859"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="12" playerPoint="22.17550891773004" top="2"/>
+            <new rank="13" playerPoint="21.968016177504037"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="13" playerPoint="22.043420027636156" top="2"/>
+            <new rank="12"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="16" playerPoint="16.83093094662402" top="3"/>
+            <new playerPoint="16.561190384330214"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="17" playerPoint="16.645131048981558" top="3"/>
+            <new rank="18" playerPoint="16.375390486687753"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="18" playerPoint="16.53131274988052" top="3"/>
+            <new rank="17"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.711443006767363" top="3"/>
+            <new playerPoint="15.441702444473558"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170301_182830_669_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.690860616165565" top="1"/>
+            <new playerPoint="37.47964956328117"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.22574167185098" top="2"/>
+            <new playerPoint="28.436952724735374"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.88183279387841" top="2"/>
+            <new playerPoint="26.670621740994015"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.17593358872859" top="2"/>
+            <new playerPoint="25.387144641612984"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.043420027636156" top="2"/>
+            <new playerPoint="22.25463108052055"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.457290281746367" top="2"/>
+            <new playerPoint="20.66850133463076"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="18" playerPoint="16.375390486687753" top="3"/>
+            <new playerPoint="16.10081611793804"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.441702444473558" top="3"/>
+            <new playerPoint="15.167128075723847"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170301_185620_332_00">
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.78529819803633" top="1"/>
+            <new playerPoint="33.730025697982576"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.47066711920217" top="1"/>
+            <new playerPoint="32.52593961925592"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.436952724735374" top="2"/>
+            <new playerPoint="28.492225224789124"/>
+        </updatePlayers>
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="26.917038730766166" top="2"/>
+            <new playerPoint="26.972311230819916"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="8" playerPoint="26.670621740994015" top="2"/>
+            <new rank="9" playerPoint="26.615349240940265"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="9" playerPoint="26.62298967093442" top="2"/>
+            <new rank="8"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.25463108052055" top="2"/>
+            <new playerPoint="22.1993585804668"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="18" playerPoint="16.10081611793804" top="3"/>
+            <new rank="19" playerPoint="16.028961867868166"/>
+        </updatePlayers>
+        <updatePlayers id="25">
+            <old rank="19" playerPoint="16.041401440523018" top="3"/>
+            <new rank="18"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.167128075723847" top="3"/>
+            <new playerPoint="15.238982325793723"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170302_132706_348_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.47803778497371" top="1"/>
+            <new playerPoint="38.37094183863027"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.47964956328117" top="1"/>
+            <new playerPoint="37.372553616937736"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.52593961925592" top="1"/>
+            <new playerPoint="32.63303556559936"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.492225224789124" top="2"/>
+            <new playerPoint="28.599321171132562"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.387144641612984" top="2"/>
+            <new playerPoint="25.494240587956423"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.1993585804668" top="2"/>
+            <new playerPoint="22.09226263412336"/>
+        </updatePlayers>
+        <updatePlayers id="25">
+            <old rank="18" playerPoint="16.041401440523018" top="3"/>
+            <new rank="19"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="19" playerPoint="16.028961867868166" top="3"/>
+            <new rank="18" playerPoint="16.168186598114634"/>
+        </updatePlayers>
+        <updatePlayers id="22">
+            <old rank="24" playerPoint="4.894609114165419" top="4"/>
+            <new playerPoint="4.680417221478545"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170302_133216_871_00">
+        <updatePlayers id="1">
+            <old rank="1" playerPoint="38.37094183863027" top="1"/>
+            <new playerPoint="38.478936220137356"/>
+        </updatePlayers>
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.372553616937736" top="1"/>
+            <new playerPoint="37.48054799844482"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="4" playerPoint="33.369434029027744" top="1"/>
+            <new playerPoint="33.26143964752066"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.63303556559936" top="1"/>
+            <new playerPoint="32.525041184092274"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.599321171132562" top="2"/>
+            <new playerPoint="28.491326789625475"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.494240587956423" top="2"/>
+            <new playerPoint="25.60223496946351"/>
+        </updatePlayers>
+        <updatePlayers id="15">
+            <old playerPoint="23.5" top="2"/>
+            <new rank="12" playerPoint="23.392005618492913"/>
+        </updatePlayers>
+        <updatePlayers id="12">
+            <old rank="12" playerPoint="22.09226263412336" top="2"/>
+            <new rank="13"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="13" playerPoint="21.968016177504037" top="2"/>
+            <new rank="14"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="14" playerPoint="20.66850133463076" top="2"/>
+            <new rank="15"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="15" playerPoint="17.493664426139244" top="3"/>
+            <new rank="16"/>
+        </updatePlayers>
+        <updatePlayers id="18">
+            <old rank="16" playerPoint="16.561190384330214" top="3"/>
+            <new rank="17"/>
+        </updatePlayers>
+        <updatePlayers id="16">
+            <old rank="17" playerPoint="16.53131274988052" top="3"/>
+            <new rank="18"/>
+        </updatePlayers>
+        <updatePlayers id="14">
+            <old rank="18" playerPoint="16.168186598114634" top="3"/>
+            <new rank="19" playerPoint="16.308579294073844"/>
+        </updatePlayers>
+        <updatePlayers id="25">
+            <old rank="19" playerPoint="16.041401440523018" top="3"/>
+            <new rank="20"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="20" playerPoint="15.238982325793723" top="3"/>
+            <new rank="21"/>
+        </updatePlayers>
+        <updatePlayers id="20">
+            <old rank="21" playerPoint="14.0" top="3"/>
+            <new rank="22"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="22" playerPoint="13.985459059861828" top="3"/>
+            <new rank="23"/>
+        </updatePlayers>
+        <updatePlayers id="26">
+            <old rank="23" playerPoint="11.969125531543854" top="3"/>
+            <new rank="24"/>
+        </updatePlayers>
+        <updatePlayers id="22">
+            <old rank="24" playerPoint="4.680417221478545" top="4"/>
+            <new rank="25"/>
+        </updatePlayers>
+        <updatePlayers id="23">
+            <old rank="25" playerPoint="4.663619973525626" top="4"/>
+            <new rank="26"/>
+        </updatePlayers>
+        <updatePlayers id="24">
+            <old rank="26" playerPoint="4.0749367646275765" top="4"/>
+            <new rank="27"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170302_191635_834_00">
+        <updatePlayers id="27">
+            <old rank="2" playerPoint="37.48054799844482" top="1"/>
+            <new playerPoint="37.42336714401627"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="3" playerPoint="33.730025697982576" top="1"/>
+            <new playerPoint="33.78720655241113"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.525041184092274" top="1"/>
+            <new playerPoint="32.582222038520825"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.491326789625475" top="2"/>
+            <new playerPoint="28.434145935196923"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="8" playerPoint="26.62298967093442" top="2"/>
+            <new rank="9"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="9" playerPoint="26.615349240940265" top="2"/>
+            <new rank="8" playerPoint="26.672530095368817"/>
+        </updatePlayers>
+        <updatePlayers id="13">
+            <old rank="15" playerPoint="20.66850133463076" top="2"/>
+            <new playerPoint="20.61132048020221"/>
+        </updatePlayers>
+        <updatePlayers id="17">
+            <old rank="16" playerPoint="17.493664426139244" top="3"/>
+            <new playerPoint="17.419329315382125"/>
+        </updatePlayers>
+        <updatePlayers id="19">
+            <old rank="21" playerPoint="15.238982325793723" top="3"/>
+            <new playerPoint="15.31331743655084"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170302_191649_506_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.582222038520825" top="1"/>
+            <new playerPoint="32.60372990972877"/>
+        </updatePlayers>
+        <updatePlayers id="15">
+            <old rank="12" playerPoint="23.392005618492913" top="2"/>
+            <new playerPoint="23.37049774728496"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170303_095718_403_00">
+        <updatePlayers id="5">
+            <old rank="7" playerPoint="26.972311230819916" top="2"/>
+            <new playerPoint="27.01448920278429"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="10" playerPoint="25.60223496946351" top="2"/>
+            <new playerPoint="25.560056997499135"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20170303_095724_811_00">
+        <updatePlayers id="4">
+            <old rank="5" playerPoint="32.60372990972877" top="1"/>
+            <new playerPoint="32.63141608365829"/>
+        </updatePlayers>
+        <updatePlayers id="8">
+            <old rank="6" playerPoint="28.434145935196923" top="2"/>
+            <new playerPoint="28.40645976126741"/>
+        </updatePlayers>
+    </updateLogs>
+</updateLogData>

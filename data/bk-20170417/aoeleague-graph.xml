@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graphData updatedTime="2017-03-04T17:27:00.207+07:00">
+    <newbieGraphs playerId="27">
+        <newbieGraphElements matchId="20170214_193225_176_00" result="1" assumedPlayerPoint="26.890061491493924"/>
+        <newbieGraphElements matchId="20170214_193715_823_00" result="1" assumedPlayerPoint="42.548142830379504"/>
+        <newbieGraphElements matchId="20170215_183909_458_00" result="1" assumedPlayerPoint="35.19713792778266"/>
+        <newbieGraphElements matchId="20170215_191624_372_00" result="-1" assumedPlayerPoint="37.28082694166578"/>
+        <newbieGraphElements matchId="20170216_134244_169_00" result="-1" assumedPlayerPoint="35.971102048489"/>
+        <newbieGraphElements matchId="20170216_181855_132_00" result="1" assumedPlayerPoint="44.87978065700275"/>
+        <newbieGraphElements matchId="20170216_183856_007_00" result="-1" assumedPlayerPoint="35.201072883711674"/>
+        <newbieGraphElements matchId="20170216_192610_382_00" result="-1" assumedPlayerPoint="35.192148505332824"/>
+        <newbieGraphElements matchId="20170216_195024_151_00" result="-1" assumedPlayerPoint="37.47047708917458"/>
+        <newbieGraphElements matchId="20170217_124741_299_00" result="1" assumedPlayerPoint="35.73786092579404"/>
+        <newbieGraphElements matchId="20170217_131013_339_00" result="-1" assumedPlayerPoint="33.25159601755578"/>
+        <newbieGraphElements matchId="20170217_182925_314_00" result="-2" assumedPlayerPoint="36.82244213694162"/>
+        <newbieGraphElements matchId="20170217_182925_314_00" result="-2" assumedPlayerPoint="36.914859750031326"/>
+        <newbieGraphElements matchId="20170220_131044_644_00" result="1" assumedPlayerPoint="39.42074036498432"/>
+        <newbieGraphElements matchId="20170220_131053_900_00" result="-1" assumedPlayerPoint="33.034522078153444"/>
+        <newbieGraphElements matchId="20170220_185259_563_00" result="1" assumedPlayerPoint="36.178092565550386"/>
+        <newbieGraphElements matchId="20170221_124353_043_00" result="2" assumedPlayerPoint="38.5039749628565"/>
+        <newbieGraphElements matchId="20170221_124353_043_00" result="2" assumedPlayerPoint="38.56563772251893"/>
+        <newbieGraphElements matchId="20170221_131153_250_00" result="-1" assumedPlayerPoint="37.583615047436254"/>
+    </newbieGraphs>
+    <newbieGraphs playerId="15">
+        <newbieGraphElements matchId="20170302_133216_871_00" result="-1" assumedPlayerPoint="22.696137494372323"/>
+        <newbieGraphElements matchId="20170302_191649_506_00" result="-2" assumedPlayerPoint="32.560714167312874"/>
+        <newbieGraphElements matchId="20170304_145345_370_00" result="-4" assumedPlayerPoint="27.79438620047405"/>
+        <newbieGraphElements matchId="20170304_172700_096_00" result="-3" assumedPlayerPoint="28.510015135887798"/>
+        <newbieGraphElements matchId="20170304_172700_096_00" result="-3" assumedPlayerPoint="31.297353801492875"/>
+    </newbieGraphs>
+</graphData>

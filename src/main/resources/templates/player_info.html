@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Chia keo AOE</title>
+    <link rel="stylesheet" href="../public/css/player_info.css"
+          th:href="@{/css/player_info.css}" />
+    <script src="../public/js/jquery-3.1.0.min.js"
+            th:src="@{/js/jquery-3.1.0.min.js}"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="../public/js/player_info.js" th:src="@{/js/player_info.js}"></script>
+</head>
+<body class="body-match" >
+<div class="container" style="margin-top:20px;" >
+	<div class="row" style="height: 50px;">
+	</div>
+	
+    <div class="row" >
+    	<a href="/table"><button class="btn btn-primary" >Bảng xếp hạng</button></a>
+       <div class="well player-theme-background" style="max-height: 600px;overflow: auto;">
+       		<div class="row">
+       			<h3 class="text-center match-label" th:text="${player.name}">
+       			</h3>
+       			
+       			
+       		</div>
+            
+            <div class="row">
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<img th:src="${player.avatar}" class="img-thumbnail" alt="${player.name}" width="200" height="200"/>
+            		
+            	</div>
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<h4 class="match-label">Rank: <span th:text="${player.rank}"></span></h4>
+            		<h4 class="match-label" th:switch="${player.top}">Top: 
+            			<span th:case="'1'" th:text="${player.top}" class="label label-danger"></span>
+                        <span th:case="'2'" th:text="${player.top}" class="label label-primary"></span>
+                        <span th:case="'3'" th:text="${player.top}" class="label label-info"></span>
+                        <span th:case="'4'" th:text="${player.top}" class="label label-default"></span></h4>
+            		<h4 class="match-label">Point: <span th:text="${player.playerPoint}"></span></h4>
+            		<h4 class="match-label">Total Plays: <span th:text="${player.totalResult.matchQuantity}"></span></h4>
+            		<h4 class="match-label">Won: <span th:text="${player.totalResult.winQuantity}"></span></h4>
+            		<h4 class="match-label">Lost: <span th:text="${player.totalResult.loseQuantity}"></span></h4>
+            		<h4 class="match-label">Win Rate: <span th:text="${player.totalResult.winRateQuantity}"></span> %</h4>
+            	</div>
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<h4 class="match-label">Team Plays: <span th:text="${player.teamResult.matchQuantity}"></span></h4>
+            		<h4 class="match-label">Team Won: <span th:text="${player.teamResult.winQuantity}"></span></h4>
+            		<h4 class="match-label">Team Lost: <span th:text="${player.teamResult.loseQuantity}"></span></h4>
+            		<h4 class="match-label">Team Win Rate: <span th:text="${player.teamResult.winRateQuantity}"></span> %</h4>
+            	</div>
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<h4 class="match-label">Solo Plays: <span th:text="${player.soloResult.matchQuantity}"></span></h4>
+            		<h4 class="match-label">Solo Won: <span th:text="${player.soloResult.winQuantity}"></span></h4>
+            		<h4 class="match-label">Solo Lost: <span th:text="${player.soloResult.loseQuantity}"></span></h4>
+            		<h4 class="match-label">Solo Win Rate: <span th:text="${player.soloResult.winRateQuantity}"></span> %</h4>
+            	</div>
+            </div>
+            <div class="row">
+            	<h3 class="text-center match-label">Last 7 days</h3>
+            </div>
+            <div class="row">
+            	<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2" >
+            		
+            	</div>
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<h4 class="match-label">Recent Plays: <span th:text="${player.recentResult.matchQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Won: <span th:text="${player.recentResult.winQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Lost: <span th:text="${player.recentResult.loseQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Win Rate: <span th:text="${player.recentResult.winRateQuantity}"></span> %</h4>
+            	</div>
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<h4 class="match-label">Recent Team Plays: <span th:text="${player.recentTeamResult.matchQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Team Won: <span th:text="${player.recentTeamResult.winQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Team Lost: <span th:text="${player.recentTeamResult.loseQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Team Win Rate: <span th:text="${player.recentTeamResult.winRateQuantity}"></span> %</h4>
+            		<h4 class="match-label" th:switch="${player.performance}">Recent Performance:
+                        <span th:case="'Superb'" th:text="${player.performance}" class="label label-success"></span>
+                        <span th:case="'Good'" th:text="${player.performance}" class="label label-primary"></span>
+                        <span th:case="'Normal'" th:text="${player.performance}" class="label label-default"></span>
+                        <span th:case="'Poor'" th:text="${player.performance}" class="label label-warning"></span>
+                        <span th:case="'Disappointed'" th:text="${player.performance}" class="label label-danger"></span>
+                        <span th:case="'Keep Fighting'" th:text="${player.performance}" class="label label-danger"></span>
+                    </h4>
+            	</div>
+            	<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3" >
+            		<h4 class="match-label">Recent Solo Plays: <span th:text="${player.recentSoloResult.matchQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Solo Won: <span th:text="${player.recentSoloResult.winQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Solo Lost: <span th:text="${player.recentSoloResult.loseQuantity}"></span></h4>
+            		<h4 class="match-label">Recent Solo Win Rate: <span th:text="${player.recentSoloResult.winRateQuantity}"></span> %</h4>
+            	</div>
+            </div>
+        </div>
+        
+    </div>
+    
+    
+        
+    
+</div>
+
+</body>
+</html>

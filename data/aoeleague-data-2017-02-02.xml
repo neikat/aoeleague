@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aoeLeague updatedTime="2017-01-31T15:25:51.117Z">
+    <players id="1" name="Tomcat" rank="1" playerPoint="39.53243121361615" top="1">
+    	<avatar>../img/avatar/Tomcat.jpg</avatar>
+    </players>
+    <players id="3" name="thaytu" rank="2" playerPoint="33.53062391222508" top="1"/>
+    <players id="2" name="Ho" rank="3" playerPoint="33.14182454566314" top="1">
+    	<avatar>../img/avatar/Ho.jpg</avatar>
+    </players>
+    <players id="4" name="V" rank="4" playerPoint="31.99813476151839" top="1"/>
+    <players id="8" name="Sonic3k" rank="5" playerPoint="28.06450989388975" top="2">
+        <avatar>../img/avatar/Sonic3k.png</avatar>
+    </players>
+    <players id="5" name="LongLV" rank="6" playerPoint="27.548165013175332" top="2">
+    	<avatar>../img/avatar/LongLV.jpg</avatar>
+    </players>
+    <players id="6" name="Chay___dan" rank="7" playerPoint="26.4047522112002" top="2"/>
+    <players id="7" name="Doman" rank="8" playerPoint="26.34896214472431" top="2"/>
+    <players id="9" name="Hieupx" rank="9" playerPoint="25.620398131116684" top="2"/>
+    <players id="10" name="X" rank="10" playerPoint="24.627098829664195" top="2">
+    	<avatar>../img/avatar/X.jpg</avatar>
+    </players>
+    <players id="12" name="Blue" rank="11" playerPoint="22.40881944039561" top="2"/>
+    <players id="11" name="Farmer" rank="12" playerPoint="22.37526464445898" top="2">
+    	<avatar>../img/avatar/Farmer.jpg</avatar>
+    </players>
+    <players id="13" name="ozawa" rank="13" playerPoint="20.245927114097803" top="2">
+    	<avatar>../img/avatar/ozawa.jpg</avatar>
+    </players>
+    <players id="14" name="bikini" rank="14" playerPoint="17.33390461087523" top="3"/>
+    <players id="15" name="shirou" rank="15" playerPoint="17.2" top="3"/>
+    <players id="16" name="fap" rank="16" playerPoint="16.590339288313167" top="3"/>
+    <players id="17" name="HungVQ" rank="17" playerPoint="16.295398082540487" top="3"/>
+    <players id="19" name="crooks" rank="18" playerPoint="16.135950862410834" top="3">
+    	<avatar>../img/avatar/crooks.jpg</avatar>
+    </players>
+    <players id="25" name="kaka" rank="19" playerPoint="16.041401440523018" top="3"/>
+    <players id="18" name="steve" rank="20" playerPoint="15.546825239253122" top="3"/>
+    <players id="20" name="Palind" rank="21" playerPoint="14.0" top="3"/>
+    <players id="21" name="Chich" rank="22" playerPoint="13.919207692745706" top="3"/>
+    <players id="26" name="Majinbu" rank="23" playerPoint="11.969125531543854" top="3"/>
+    <players id="22" name="Guido" rank="24" playerPoint="4.900076233029454" top="4"/>
+    <players id="23" name="peotuan" rank="25" playerPoint="4.327771232508424" top="4"/>
+    <players id="24" name="ble" rank="26" playerPoint="4.0749367646275765" top="4"/>
+    <history>
+        <matches id="20161223_173000_000_00" result="2-0" matchPoint="0.3999999999999915" date="2016-12-23T17:30:00.000Z">
+            <groupId>2-5-14-19-_3-8-11-23-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="93.6">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="11" name="Farmer" playerPoint="22.4" top="2"/>
+                <players id="23" name="peotuan" playerPoint="10.8" top="3"/>
+                <players id="3" name="thaytu" playerPoint="33.2" top="1"/>
+            </team1>
+            <team2 teampoint="93.2" numOfShang="0">
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+                <players id="5" name="LongLV" playerPoint="27.2" top="2"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161223_173000_000_01" result="2-1" matchPoint="1.5999999999999943" date="2016-12-23T17:30:00.000Z">
+            <groupId>1-4-11-19-_2-3-8-22-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="109.2" numOfShang="0">
+                <players id="11" name="Farmer" playerPoint="22.4" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="4" name="V" playerPoint="33.2" top="1"/>
+                <players id="1" name="Tomcat" playerPoint="38.0" top="1"/>
+            </team1>
+            <team2 teampoint="107.60000000000001" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+                <players id="3" name="thaytu" playerPoint="33.2" top="1"/>
+                <players id="22" name="Guido" playerPoint="14.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161223_193000_000_00" result="3-0" matchPoint="-9.600000000000009" date="2016-12-23T19:30:00.000Z">
+            <groupId>1-8-9-_2-3-4-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="90.0" numOfShang="0">
+                <players id="1" name="Tomcat" playerPoint="38.0" top="1"/>
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+            </team1>
+            <team2 teampoint="99.60000000000001" numOfShang="0">
+                <players id="4" name="V" playerPoint="33.2" top="1"/>
+                <players id="3" name="thaytu" playerPoint="33.2" top="1"/>
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+            </team2>
+        </matches>
+        <matches id="20161224_074013_257_00" result="0-1" matchPoint="-0.8000000000000114" date="2016-12-24T07:40:13.257Z">
+            <groupId>4-12-14-_8-9-19-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="67.6" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+            </team1>
+            <team2 teampoint="68.4">
+                <players id="4" name="V" playerPoint="33.2" top="1"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+                <players id="12" name="Blue" playerPoint="18.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161224_074710_295_00" result="0-1" matchPoint="-6.0000000000000036" date="2016-12-24T07:47:10.295Z" solo="true">
+            <groupId>4-_8-</groupId>
+            <map>Large</map>
+            <team1 teampoint="27.2" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+            </team1>
+            <team2 teampoint="33.2">
+                <players id="4" name="V" playerPoint="33.2" top="1"/>
+            </team2>
+        </matches>
+        <matches id="20161224_130000_000_00" result="1-0" matchPoint="6.3999999999999915" date="2016-12-24T13:00:00.000Z">
+            <groupId>4-5-12-_8-9-14-19-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="84.8" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team1>
+            <team2 teampoint="78.4" numOfShang="0">
+                <players id="5" name="LongLV" playerPoint="27.2" top="2"/>
+                <players id="4" name="V" playerPoint="33.2" top="1"/>
+                <players id="12" name="Blue" playerPoint="18.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161224_133000_000_00" result="0-1" matchPoint="-11.600000000000009" date="2016-12-24T13:30:00.000Z">
+            <groupId>4-5-12-16-_8-9-14-19-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="84.8" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team1>
+            <team2 teampoint="96.4" numOfShang="0">
+                <players id="5" name="LongLV" playerPoint="27.2" top="2"/>
+                <players id="4" name="V" playerPoint="33.2" top="1"/>
+                <players id="12" name="Blue" playerPoint="18.0" top="3"/>
+                <players id="16" name="fap" playerPoint="18.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161225_133000_000_00" result="2-1" matchPoint="-18.4" date="2016-12-25T13:30:00.000Z">
+            <groupId>12-19-_5-9-</groupId>
+            <map>Large</map>
+            <team1 teampoint="33.6" numOfShang="2">
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="12" name="Blue" playerPoint="18.0" top="3"/>
+            </team1>
+            <team2 teampoint="52.0" numOfShang="0">
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="5" name="LongLV" playerPoint="27.2" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20161226_173000_000_00" result="1-0" matchPoint="-1.59999999999998" date="2016-12-26T17:30:00.000Z">
+            <groupId>2-8-9-19-_4-7-10-12-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="100.80000000000001" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+            </team1>
+            <team2 teampoint="102.39999999999999" numOfShang="0">
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="10" name="X" playerPoint="24.8" top="2"/>
+                <players id="12" name="Blue" playerPoint="18.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161227_120000_000_00" result="1-2" matchPoint="1.9999999999999858" date="2016-12-27T12:00:00.000Z">
+            <groupId>2-8-11-13-_4-7-9-14-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="103.6" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="11" name="Farmer" playerPoint="22.4" top="2"/>
+                <players id="13" name="ozawa" playerPoint="20.8" top="2"/>
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+            </team1>
+            <team2 teampoint="101.60000000000001" numOfShang="0">
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161227_120000_000_01" result="1-2" matchPoint="5.999999999999986" date="2016-12-27T12:00:00.000Z">
+            <groupId>4-8-18-_7-9-14-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="75.19999999999999" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="18" name="steve" playerPoint="15.600000000000001" top="3"/>
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+            </team1>
+            <team2 teampoint="69.2" numOfShang="0">
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20161227_120000_000_02" result="1-2" matchPoint="-8.0" date="2016-12-27T12:00:00.000Z">
+            <groupId>2-4-7-_8-9-14-18-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="84.8" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="18" name="steve" playerPoint="15.600000000000001" top="3"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team1>
+            <team2 teampoint="92.8" numOfShang="0">
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+            </team2>
+        </matches>
+        <matches id="20170109_120000_000_00" result="2-1" matchPoint="0.8000000000000114" date="2017-01-09T12:00:00.000Z">
+            <groupId>4-5-7-23-_8-9-11-14-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="91.60000000000001" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="11" name="Farmer" playerPoint="22.4" top="2"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team1>
+            <team2 teampoint="90.8" numOfShang="0">
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+                <players id="5" name="LongLV" playerPoint="27.2" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="23" name="peotuan" playerPoint="4.0" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170109_120000_000_01" result="2-1" matchPoint="1.9999999999999858" date="2017-01-09T12:00:00.000Z">
+            <groupId>3-13-18-19-_7-8-9-23-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="85.19999999999999" numOfShang="0">
+                <players id="3" name="thaytu" playerPoint="33.2" top="1"/>
+                <players id="13" name="ozawa" playerPoint="20.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="18" name="steve" playerPoint="15.600000000000001" top="3"/>
+            </team1>
+            <team2 teampoint="83.2" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="23" name="peotuan" playerPoint="4.0" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170109_173000_000_00" result="2-1" matchPoint="1.4210854715202004E-14" date="2017-01-09T17:30:00.000Z">
+            <groupId>2-10-16-19-_8-9-11-14-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="91.60000000000001" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="24.8" top="2"/>
+                <players id="11" name="Farmer" playerPoint="22.4" top="2"/>
+                <players id="14" name="bikini" playerPoint="17.2" top="3"/>
+            </team1>
+            <team2 teampoint="91.6" numOfShang="0">
+                <players id="2" name="Ho" playerPoint="33.2" top="1"/>
+                <players id="10" name="X" playerPoint="24.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="16" name="fap" playerPoint="18.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170109_190000_000_00" result="2-1" matchPoint="-0.4000000000000199" date="2017-01-09T19:00:00.000Z">
+            <groupId>1-7-16-19-_4-8-12-13-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="98.39999999999999" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+                <players id="13" name="ozawa" playerPoint="20.8" top="2"/>
+                <players id="12" name="Blue" playerPoint="18.0" top="3"/>
+            </team1>
+            <team2 teampoint="98.80000000000001" numOfShang="0">
+                <players id="1" name="Tomcat" playerPoint="38.0" top="1"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="16" name="fap" playerPoint="18.0" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170111_173000_000_00" result="0-1" matchPoint="3.200000000000017" date="2017-01-11T17:30:00.000Z">
+            <groupId>1-9-13-19-_3-7-8-18-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="103.20000000000002" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="3" name="thaytu" playerPoint="33.2" top="1"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="18" name="steve" playerPoint="15.600000000000001" top="3"/>
+            </team1>
+            <team2 teampoint="100.0" numOfShang="0">
+                <players id="1" name="Tomcat" playerPoint="38.0" top="1"/>
+                <players id="13" name="ozawa" playerPoint="20.8" top="2"/>
+                <players id="19" name="crooks" playerPoint="15.600000000000001" top="3"/>
+                <players id="9" name="Hieupx" playerPoint="25.6" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170112_120000_000_00" result="0-3" matchPoint="-3.5999999999999943" date="2017-01-12T12:00:00.000Z">
+            <groupId>4-6-9-12-_5-7-8-11-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="104.0" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.2" top="2"/>
+                <players id="11" name="Farmer" playerPoint="22.4" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.2" top="2"/>
+                <players id="5" name="LongLV" playerPoint="27.2" top="2"/>
+            </team1>
+            <team2 teampoint="107.6" numOfShang="0">
+                <players id="9" name="Hieupx" playerPoint="25.6" top="2"/>
+                <players id="6" name="Chay___dan" playerPoint="27.2" top="2"/>
+                <players id="4" name="V" playerPoint="32.4" top="1"/>
+                <players id="12" name="Blue" playerPoint="22.4" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170112_173000_000_00" result="2-1" matchPoint="-0.3999999999999915" date="2017-01-12T17:30:00.000Z">
+            <groupId>3-9-13-18-_5-7-10-17-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="95.2" numOfShang="0">
+                <players id="3" name="thaytu" playerPoint="33.304601917459514" top="1"/>
+                <players id="9" name="Hieupx" playerPoint="25.704601917459513" top="2"/>
+                <players id="13" name="ozawa" playerPoint="20.904601917459512" top="2"/>
+                <players id="18" name="steve" playerPoint="15.704601917459511" top="3"/>
+            </team1>
+            <team2 teampoint="95.6" numOfShang="0">
+                <players id="5" name="LongLV" playerPoint="27.095398082540488" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.095398082540488" top="2"/>
+                <players id="10" name="X" playerPoint="24.69539808254049" top="2"/>
+                <players id="17" name="HungVQ" playerPoint="16.295398082540487" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170112_173000_000_01" result="3-0" matchPoint="0.0" date="2017-01-12T17:30:00.000Z">
+            <groupId>2-8-_3-7-</groupId>
+            <map>Large</map>
+            <team1 teampoint="60.400000000000006" numOfShang="0">
+                <players id="3" name="thaytu" playerPoint="33.454601917459506" top="1"/>
+                <players id="7" name="Doman" playerPoint="27.24539808254049" top="2"/>
+            </team1>
+            <team2 teampoint="60.400000000000006" numOfShang="0">
+                <players id="2" name="Ho" playerPoint="33.05000000000001" top="1"/>
+                <players id="8" name="Sonic3k" playerPoint="27.049999999999997" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170113_120000_000_00" result="4-0" matchPoint="1.4953980825404898" date="2017-01-13T12:00:00.000Z">
+            <groupId>5-9-_7-8-</groupId>
+            <map>Large</map>
+            <team1 teampoint="54.29539808254049" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.17442755190268" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.369825634443174" top="2"/>
+            </team1>
+            <team2 teampoint="52.8" numOfShang="0">
+                <players id="5" name="LongLV" playerPoint="26.970970530637803" top="2"/>
+                <players id="9" name="Hieupx" playerPoint="25.58017436555683" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170113_173000_000_00" result="1-1" matchPoint="-0.7546019174595102" date="2017-01-13T17:30:00.000Z">
+            <groupId>3-8-12-19-_6-7-11-13-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="97.87442755190268" numOfShang="0">
+                <players id="6" name="Chay___dan" playerPoint="27.208665884468274" top="2"/>
+                <players id="7" name="Doman" playerPoint="27.37849151891145" top="2"/>
+                <players id="11" name="Farmer" playerPoint="22.408665884468274" top="2"/>
+                <players id="13" name="ozawa" playerPoint="20.913267801927788" top="2"/>
+            </team1>
+            <team2 teampoint="98.6290294693622" numOfShang="0">
+                <players id="8" name="Sonic3k" playerPoint="27.165761667434406" top="2"/>
+                <players id="3" name="thaytu" playerPoint="33.445936032991234" top="1"/>
+                <players id="19" name="crooks" playerPoint="15.591334115531726" top="3"/>
+                <players id="12" name="Blue" playerPoint="22.391334115531723" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170113_190000_000_00" result="3-0" matchPoint="1.3907961650809746" date="2017-01-13T19:00:00.000Z" solo="true">
+            <groupId>5-_9-</groupId>
+            <map>Large</map>
+            <team1 teampoint="27.010144384884452" numOfShang="0">
+                <players id="5" name="LongLV" rank="8" playerPoint="27.136329368756975" top="2"/>
+            </team1>
+            <team2 teampoint="25.619348219803477" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.493163235930954" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170116_120000_000_00" result="2-0" matchPoint="9.6430169621771" date="2017-01-16T12:00:00.000Z">
+            <groupId>4-6-7-23-_5-8-9-13-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="100.63017436555683" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="7" playerPoint="27.204935521681055" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.619348219803477" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.952441656174436" top="2"/>
+                <players id="5" name="LongLV" rank="8" playerPoint="27.010144384884452" top="2"/>
+            </team1>
+            <team2 teampoint="90.98715740337973" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.36082614575334" top="1"/>
+                <players id="7" name="Doman" rank="5" playerPoint="27.3393176646648" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="3.9216522915067014" top="4"/>
+                <players id="6" name="Chay___dan" rank="6" playerPoint="27.169492030221626" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170116_173000_000_00" result="0-1" matchPoint="-6.300532360419439" date="2017-01-16T17:30:00.000Z">
+            <groupId>6-9-10-19-_7-8-16-18-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="86.64885510380536" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="6" playerPoint="27.166958324840312" top="2"/>
+                <players id="18" name="steve" rank="18" playerPoint="15.666624720618769" top="3"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.362022803159256" top="3"/>
+                <players id="7" name="Doman" rank="5" playerPoint="27.30134046782406" top="2"/>
+            </team1>
+            <team2 teampoint="92.9493874642248" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.531140432771696" top="2"/>
+                <players id="6" name="Chay___dan" rank="7" playerPoint="27.20746922706237" top="2"/>
+                <players id="19" name="crooks" rank="19" playerPoint="15.629311312372469" top="3"/>
+                <players id="10" name="X" rank="10" playerPoint="24.73337527938123" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170116_180000_000_00" result="0-1" matchPoint="-2.013931082130199" date="2017-01-16T18:00:00.000Z">
+            <groupId>6-9-10-19-_7-8-13-18-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="91.08736516945757" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="7" playerPoint="27.089737809241925" top="2"/>
+                <players id="18" name="steve" rank="18" playerPoint="15.58940420502038" top="3"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.87522114057605" top="2"/>
+                <players id="7" name="Doman" rank="5" playerPoint="27.22411995222567" top="2"/>
+            </team1>
+            <team2 teampoint="93.10129625158777" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.608360948370084" top="2"/>
+                <players id="6" name="Chay___dan" rank="6" playerPoint="27.284689742660756" top="2"/>
+                <players id="19" name="crooks" rank="19" playerPoint="15.706531827970858" top="3"/>
+                <players id="10" name="X" rank="10" playerPoint="24.81059579497962" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170116_190000_000_00" result="0-1" matchPoint="2.1146312941081504" date="2017-01-16T19:00:00.000Z">
+            <groupId>4-6-12-_7-8-9-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="82.03685000394583" numOfShang="0">
+                <players id="6" name="Chay___dan" rank="5" playerPoint="27.16081400793059" top="2"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.267458380801557" top="2"/>
+                <players id="4" name="V" rank="4" playerPoint="32.23695041102317" top="1"/>
+            </team1>
+            <team2 teampoint="79.92221870983768" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="8" playerPoint="27.21361354397209" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.73223668310025" top="2"/>
+                <players id="7" name="Doman" rank="6" playerPoint="27.347995686955837" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170116_200000_000_00" result="2-1" matchPoint="0.735311818864048" date="2017-01-16T20:00:00.000Z">
+            <groupId>1-8-12-_4-6-7-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="87.48107192477364" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="6" playerPoint="27.30516811923013" top="2"/>
+                <players id="1" name="Tomcat" rank="1" playerPoint="38.09155457525804" top="1"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.359012956059598" top="2"/>
+            </team1>
+            <team2 teampoint="86.7457601059096" numOfShang="0">
+                <players id="6" name="Chay___dan" rank="7" playerPoint="27.06925943267255" top="2"/>
+                <players id="4" name="V" rank="4" playerPoint="32.145395835765136" top="1"/>
+                <players id="7" name="Doman" rank="5" playerPoint="27.256441111697796" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170117_120000_000_00" result="1-0" matchPoint="1.396545174962199" date="2017-01-17T12:00:00.000Z">
+            <groupId>4-5-11-_7-8-9-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="81.69039108899038" numOfShang="0">
+                <players id="11" name="Farmer" rank="11" playerPoint="22.49272469430798" top="2"/>
+                <players id="4" name="V" rank="4" playerPoint="32.22945464560484" top="1"/>
+                <players id="5" name="LongLV" rank="7" playerPoint="27.220388178596682" top="2"/>
+            </team1>
+            <team2 teampoint="80.29384591402818" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.221109309390425" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.648177873260543" top="2"/>
+                <players id="7" name="Doman" rank="6" playerPoint="27.17238230185809" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170117_123000_000_00" result="1-1" matchPoint="-0.34673088121628837" date="2017-01-17T12:30:00.000Z">
+            <groupId>4-5-6-16-_7-8-9-11-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="102.53439417881704" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.225099077154432" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.49671446207199" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.65216764102455" top="2"/>
+                <players id="7" name="Doman" rank="7" playerPoint="27.176372069622097" top="2"/>
+            </team1>
+            <team2 teampoint="102.88112506003333" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.225464877840835" top="1"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.216398410832674" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="27.06526966490854" top="2"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.35803303539525" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170117_173000_000_00" result="0-1" matchPoint="5.746842701102381" date="2017-01-17T17:30:00.000Z">
+            <groupId>3-7-8-23-_5-6-12-13-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="97.51590217237685" numOfShang="0">
+                <players id="5" name="LongLV" rank="6" playerPoint="27.05845371479567" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.90732496887154" top="2"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.201068260022595" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.717276444539046" top="2"/>
+            </team1>
+            <team2 teampoint="91.76905947127447" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.60388072902823" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.383043773191435" top="2"/>
+                <players id="7" name="Doman" rank="7" playerPoint="27.3343167656591" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.237541683580704" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170117_173000_000_01" result="1-0" matchPoint="-1.2573209024954792" date="2017-01-17T17:30:00.000Z">
+            <groupId>3-6-7-19-_5-8-9-12-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="102.29473338903425" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.497418949947143" top="2"/>
+                <players id="5" name="LongLV" rank="7" playerPoint="27.17282889155138" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.76654281778026" top="2"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.315443436778303" top="2"/>
+            </team1>
+            <team2 teampoint="103.55205429152973" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.489505552272526" top="1"/>
+                <players id="7" name="Doman" rank="6" playerPoint="27.219941588903392" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.79294979211583" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="15.592156651215149" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170117_190000_000_00" result="1-0" matchPoint="1.6893427150378528" date="2017-01-17T19:00:00.000Z">
+            <groupId>2-6-7-21-_5-8-9-12-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="102.7522340960571" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.578211257201435" top="2"/>
+                <players id="5" name="LongLV" rank="7" playerPoint="27.25362119880567" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.84733512503455" top="2"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.396235744032595" top="2"/>
+            </team1>
+            <team2 teampoint="101.06289138101924" numOfShang="0">
+                <players id="2" name="Ho" rank="3" playerPoint="32.96920769274572" top="1"/>
+                <players id="7" name="Doman" rank="6" playerPoint="27.1391492816491" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.71215748486154" top="2"/>
+                <players id="21" name="Chich" rank="21" playerPoint="13.919207692745706" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170117_200000_000_00" result="2-1" matchPoint="-0.3313318798104561" date="2017-01-17T20:00:00.000Z">
+            <groupId>4-12-_6-8-</groupId>
+            <map>Large</map>
+            <team1 teampoint="54.290368742062974" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.630117632243262" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.764063859903366" top="2"/>
+            </team1>
+            <team2 teampoint="54.62170062187343" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.17355850279901" top="1"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.344329368990767" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170118_120000_000_00" result="0-2" matchPoint="-0.10681692670119958" date="2017-01-18T12:00:00.000Z">
+            <groupId>4-8-10-11-_5-6-7-9-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="107.00416946539268" numOfShang="0">
+                <players id="7" name="Doman" rank="7" playerPoint="26.94160870829779" top="2"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.05608062545436" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.566523286552055" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.64979455168324" top="2"/>
+            </team1>
+            <team2 teampoint="107.11098639209388" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.371099076150315" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.827658205594574" top="2"/>
+                <players id="10" name="X" rank="10" playerPoint="25.00813636833093" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.6942550354233" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170118_173000_000_00" result="2-1" matchPoint="5.547375429521381" date="2017-01-18T17:30:00.000Z">
+            <groupId>3-7-_5-8-</groupId>
+            <map>Large</map>
+            <team1 teampoint="60.43111426057031" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.511306051444535" top="1"/>
+                <players id="7" name="Doman" rank="7" playerPoint="26.963409207469795" top="2"/>
+            </team1>
+            <team2 teampoint="54.88373883104893" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.805857706422568" top="2"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.034280126282354" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170118_183000_000_00" result="3-0" matchPoint="6.5478968439747405" date="2017-01-18T18:30:00.000Z" solo="true">
+            <groupId>3-_7-</groupId>
+            <map>Large</map>
+            <team1 teampoint="33.511306051444535" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.56568962317676" top="1"/>
+            </team1>
+            <team2 teampoint="26.963409207469795" numOfShang="0">
+                <players id="7" name="Doman" rank="7" playerPoint="26.90902563573757" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170118_203000_000_00" result="3-2" matchPoint="3.988402462031633" date="2017-01-18T20:30:00.000Z" solo="true">
+            <groupId>12-_6-</groupId>
+            <map>Large</map>
+            <team1 teampoint="26.390487639286352" numOfShang="0">
+                <players id="6" name="Chay___dan" rank="7" playerPoint="26.4047522112002" top="2"/>
+            </team1>
+            <team2 teampoint="22.40208517725472" numOfShang="1">
+                <players id="12" name="Blue" rank="11" playerPoint="22.38782060534087" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170118_203000_000_01" result="1-0" matchPoint="3.9381983790926824" date="2017-01-18T20:30:00.000Z" solo="true">
+            <groupId>12-_7-</groupId>
+            <map>Large</map>
+            <team1 teampoint="26.326018984433553" numOfShang="0">
+                <players id="7" name="Doman" rank="8" playerPoint="26.340401701762055" top="2"/>
+            </team1>
+            <team2 teampoint="22.38782060534087" numOfShang="1">
+                <players id="12" name="Blue" rank="11" playerPoint="22.37343788801237" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170118_203000_000_02" result="1-0" matchPoint="9.66007842588926" date="2017-01-18T20:30:00.000Z" solo="true">
+            <groupId>12-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="32.03351631390163" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.038395720001986" top="1"/>
+            </team1>
+            <team2 teampoint="22.37343788801237" numOfShang="1">
+                <players id="12" name="Blue" rank="12" playerPoint="22.368558481912014" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170119_120000_000_00" result="2-2" matchPoint="0.8968320706849973" date="2017-01-19T12:00:00.000Z" solo="true">
+            <groupId>7-_8-</groupId>
+            <map>Large</map>
+            <team1 teampoint="27.805857706422568" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.795569081660094" top="2"/>
+            </team1>
+            <team2 teampoint="26.90902563573757" numOfShang="0">
+                <players id="7" name="Doman" rank="7" playerPoint="26.919314260500045" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170119_123000_000_00" result="0-2" matchPoint="1.1945905470264435" date="2017-01-19T12:30:00.000Z" solo="true">
+            <groupId>3-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="33.56568962317676" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.45202245490771" top="1"/>
+            </team1>
+            <team2 teampoint="32.371099076150315" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.48476624441936" top="1"/>
+            </team2>
+        </matches>
+        <matches id="20170119_173000_000_00" result="2-2" matchPoint="0.1450039764461195" date="2017-01-19T17:30:00.000Z">
+            <groupId>3-8-11-19-_5-7-10-13-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="99.67900719965237" numOfShang="0">
+                <players id="5" name="LongLV" rank="6" playerPoint="27.030941596476005" top="2"/>
+                <players id="7" name="Doman" rank="7" playerPoint="26.915975730693695" top="2"/>
+                <players id="10" name="X" rank="10" playerPoint="25.00479783852458" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.713937914732696" top="2"/>
+            </team1>
+            <team2 teampoint="99.53400322320626" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.45536098471407" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.798907611466444" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.69759356522965" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="15.595495181021501" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170119_190000_000_00" result="0-2" matchPoint="-3.8502528968429175" date="2017-01-19T19:00:00.000Z">
+            <groupId>2-4-6-_3-7-8-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="88.17024432687421" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.33863235378666" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.682178980539025" top="2"/>
+                <players id="7" name="Doman" rank="7" playerPoint="26.799247099766276" top="2"/>
+            </team1>
+            <team2 teampoint="92.02049722371713" numOfShang="0">
+                <players id="2" name="Ho" rank="3" playerPoint="33.08593632367313" top="1"/>
+                <players id="4" name="V" rank="4" playerPoint="32.60149487534677" top="1"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.683251917479474" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170120_120000_000_00" result="0-2" matchPoint="0.08411009036547057" date="2017-01-20T12:00:00.000Z">
+            <groupId>1-8-9-19-_4-7-10-11-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="107.10313337886728" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.39955822947755" top="1"/>
+                <players id="7" name="Doman" rank="7" playerPoint="26.597310453897045" top="2"/>
+                <players id="10" name="X" rank="10" playerPoint="24.80286119265535" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.495656919360417" top="2"/>
+            </team1>
+            <team2 teampoint="107.01902328850181" numOfShang="0">
+                <players id="1" name="Tomcat" rank="1" playerPoint="38.29349122112727" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.884115626408256" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.85173119755247" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="15.797431826890733" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170120_170000_000_00" result="1-1" matchPoint="-1.2975631507779362" date="2017-01-20T17:00:00.000Z">
+            <groupId>18-19-_9-23-</groupId>
+            <map>Large</map>
+            <team1 teampoint="30.089272881133176" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.859145499307335" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.252370287090434" top="4"/>
+            </team1>
+            <team2 teampoint="31.386836031911113" numOfShang="0">
+                <players id="18" name="steve" rank="19" playerPoint="15.581989903265514" top="3"/>
+                <players id="19" name="crooks" rank="18" playerPoint="15.790017525135868" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170120_173000_000_00" result="1-0" matchPoint="3.1829431725872297" date="2017-01-20T17:30:00.000Z">
+            <groupId>5-7-8-23-_9-10-11-19-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="88.94768113645897" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.924057243317254" top="2"/>
+                <players id="10" name="X" rank="10" playerPoint="24.86777293666527" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.560568663370336" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="15.854929269145787" top="3"/>
+            </team1>
+            <team2 teampoint="85.76473796387174" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.819203882398337" top="2"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="26.966029852466086" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.532398709887126" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.122546799070598" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170120_180000_000_00" result="0-1" matchPoint="3.3673394612428638" date="2017-01-20T18:00:00.000Z">
+            <groupId>4-5-8-23-_7-10-11-13-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="94.67467822465542" numOfShang="0">
+                <players id="7" name="Doman" rank="8" playerPoint="26.39546292642765" top="2"/>
+                <players id="10" name="X" rank="10" playerPoint="24.730837153205794" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.423632879910862" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.577002131273222" top="2"/>
+            </team1>
+            <team2 teampoint="91.30733876341256" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.53649401293702" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.956139665857812" top="2"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.10296563592556" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.396418365989545" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170120_190000_000_00" result="0-1" matchPoint="-5.756997208190249" date="2017-01-20T19:00:00.000Z" solo="true">
+            <groupId>1-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="32.53649401293702" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.51550516223699" top="1"/>
+            </team1>
+            <team2 teampoint="38.29349122112727" numOfShang="0">
+                <players id="1" name="Tomcat" rank="1" playerPoint="38.3144800718273" top="1"/>
+            </team2>
+        </matches>
+        <matches id="20170121_120000_000_00" result="3-0" matchPoint="6.402684406193657" date="2017-01-21T12:00:00.000Z" solo="true">
+            <groupId>2-_6-</groupId>
+            <map>Large</map>
+            <team1 teampoint="33.08593632367313" numOfShang="0">
+                <players id="2" name="Ho" rank="3" playerPoint="33.14182454566314" top="1"/>
+            </team1>
+            <team2 teampoint="26.683251917479474" numOfShang="0">
+                <players id="6" name="Chay___dan" rank="7" playerPoint="26.627363695489464" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170121_130000_000_00" result="3-3" matchPoint="2.386507784215027" date="2017-01-21T13:00:00.000Z" solo="true">
+            <groupId>10-_12-</groupId>
+            <map>Large</map>
+            <team1 teampoint="24.730837153205794" numOfShang="0">
+                <players id="10" name="X" rank="10" playerPoint="24.690630323976897" top="2"/>
+            </team1>
+            <team2 teampoint="22.344329368990767" numOfShang="0">
+                <players id="12" name="Blue" rank="12" playerPoint="22.384536198219664" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170123_120000_000_00" result="1-0" matchPoint="-0.367628307830131" date="2017-01-23T12:00:00.000Z">
+            <groupId>7-8-13-_9-14-18-19-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="74.56097641572855" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="26.028287195099658" top="2"/>
+                <players id="14" name="bikini" rank="15" playerPoint="17.304229951782403" top="3"/>
+                <players id="19" name="crooks" rank="18" playerPoint="15.959159220928193" top="3"/>
+                <players id="18" name="steve" rank="19" playerPoint="15.68621985504792" top="3"/>
+            </team1>
+            <team2 teampoint="74.92860472355868" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.851909714075408" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.291232974645247" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.472772179490818" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170123_123000_000_00" result="0-1" matchPoint="0.40130375989576805" date="2017-01-23T12:30:00.000Z">
+            <groupId>7-8-18-19-_9-12-13-14-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="86.18982552459254" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.923670299441053" top="2"/>
+                <players id="12" name="Blue" rank="12" playerPoint="22.27991930256106" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.368155283832213" top="2"/>
+                <players id="14" name="bikini" rank="14" playerPoint="17.1996130561238" top="3"/>
+            </team1>
+            <team2 teampoint="85.78852176469677" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.956526609734013" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.395849870303852" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="16.063776116586798" top="3"/>
+                <players id="18" name="steve" rank="19" playerPoint="15.790836750706527" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170123_173000_000_00" result="0-2" matchPoint="1.9431776505051204" date="2017-01-23T17:30:00.000Z">
+            <groupId>3-5-8-23-_6-7-9-18-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="94.7377206159409" numOfShang="0">
+                <players id="6" name="Chay___dan" rank="7" playerPoint="26.383352184036063" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.15183835885045" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.679658787987652" top="2"/>
+                <players id="18" name="steve" rank="19" playerPoint="15.546825239253122" top="3"/>
+            </team1>
+            <team2 teampoint="92.79454296543578" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.582643865240065" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="28.200538121187414" top="2"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.34697714737896" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.884441388896354" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170123_183000_000_00" result="0-1" matchPoint="0.2411218794013763" date="2017-01-23T18:30:00.000Z">
+            <groupId>3-4-9-19-_5-6-7-8-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="108.08270581145288" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="28.097762815834347" top="2"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.244201842025895" top="2"/>
+                <players id="6" name="Chay___dan" rank="7" playerPoint="26.280576878682997" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.049063053497385" top="2"/>
+            </team1>
+            <team2 teampoint="107.8415839320515" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.685419170593136" top="1"/>
+                <players id="4" name="V" rank="4" playerPoint="32.61828046759006" top="1"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.78243409334072" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="16.166551421939864" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170123_193000_000_00" result="4-0" matchPoint="4.520517651755714" date="2017-01-23T19:30:00.000Z" solo="true">
+            <groupId>4-_8-</groupId>
+            <map>Large</map>
+            <team1 teampoint="32.61828046759006" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.6965740945267" top="1"/>
+            </team1>
+            <team2 teampoint="28.097762815834347" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="28.019469188897705" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170123_203000_000_00" result="2-1" matchPoint="-2.410711021415839" date="2017-01-23T20:30:00.000Z" solo="true">
+            <groupId>10-_12-</groupId>
+            <map>Large</map>
+            <team1 teampoint="22.27991930256106" numOfShang="0">
+                <players id="12" name="Blue" rank="12" playerPoint="22.34345079687376" top="2"/>
+            </team1>
+            <team2 teampoint="24.690630323976897" numOfShang="0">
+                <players id="10" name="X" rank="10" playerPoint="24.627098829664195" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170124_120000_000_00" result="0-3" matchPoint="0.11475223320159955" date="2017-01-24T12:00:00.000Z">
+            <groupId>1-5-7-14-_4-8-9-11-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="108.92211025667598" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.392610923377255" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.715506017748268" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.47847092219128" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.119669708761425" top="2"/>
+            </team1>
+            <team2 teampoint="108.80735802347438" numOfShang="0">
+                <players id="1" name="Tomcat" rank="1" playerPoint="38.618443242976745" top="1"/>
+                <players id="5" name="LongLV" rank="6" playerPoint="27.548165013175332" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.353026224646822" top="2"/>
+                <players id="14" name="bikini" rank="15" playerPoint="17.503576227273236" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170124_170000_000_00" result="0-1" matchPoint="-2.33252645103957" date="2017-01-24T17:00:00.000Z">
+            <groupId>11-14-19-23-_6-13-16-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="60.674238746870884" numOfShang="0">
+                <players id="11" name="Farmer" rank="12" playerPoint="22.045896476012775" top="2"/>
+                <players id="14" name="bikini" rank="14" playerPoint="17.429802994524586" top="3"/>
+                <players id="19" name="crooks" rank="18" playerPoint="16.092778189191215" top="3"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.736894923399056" top="4"/>
+            </team1>
+            <team2 teampoint="63.006765197910454" numOfShang="0">
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.354350111431646" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.441928516580862" top="2"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.431806268143898" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170124_173000_000_00" result="1-0" matchPoint="-1.639797523692664" date="2017-01-24T17:30:00.000Z">
+            <groupId>4-6-13-23-_8-11-16-19-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="82.28598695109616" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.834163748261616" top="2"/>
+                <players id="11" name="Farmer" rank="12" playerPoint="22.164554206526123" top="2"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.550463998657246" top="3"/>
+                <players id="19" name="crooks" rank="18" playerPoint="16.211435919704563" top="3"/>
+            </team1>
+            <team2 teampoint="83.92578447478883" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.27395319286391" top="1"/>
+                <players id="6" name="Chay___dan" rank="7" playerPoint="26.235692380918298" top="2"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.323270786067514" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.499579462372359" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170124_180000_000_00" result="1-0" matchPoint="2.002651722466368" date="2017-01-24T18:00:00.000Z">
+            <groupId>3-4-13-23-_6-8-11-16-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="92.78487433436328" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.911507420231327" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.31303605288801" top="2"/>
+                <players id="11" name="Farmer" rank="12" playerPoint="22.241897878495834" top="2"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.627807670626957" top="3"/>
+            </team1>
+            <team2 teampoint="90.78222261189691" numOfShang="0">
+                <players id="3" name="thaytu" rank="2" playerPoint="33.60807549862342" top="1"/>
+                <players id="4" name="V" rank="4" playerPoint="32.19660952089419" top="1"/>
+                <players id="13" name="ozawa" rank="13" playerPoint="20.245927114097803" top="2"/>
+                <players id="23" name="peotuan" rank="23" playerPoint="4.344892118432936" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170124_183000_000_00" result="1-0" matchPoint="1.9927737604818674" date="2017-01-24T18:30:00.000Z">
+            <groupId>1-3-12-19-_4-6-7-8-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="112.77417921866035" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.27406110729253" top="1"/>
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.98895900662967" top="2"/>
+                <players id="7" name="Doman" rank="7" playerPoint="26.430477811045165" top="2"/>
+                <players id="6" name="Chay___dan" rank="8" playerPoint="26.390487639286352" top="2"/>
+            </team1>
+            <team2 teampoint="110.78140545817848" numOfShang="0">
+                <players id="1" name="Tomcat" rank="1" playerPoint="38.540991656578406" top="1"/>
+                <players id="3" name="thaytu" rank="2" playerPoint="33.53062391222508" top="1"/>
+                <players id="12" name="Blue" rank="11" playerPoint="22.265999210475417" top="2"/>
+                <players id="19" name="crooks" rank="18" playerPoint="16.13398433330622" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170124_203000_000_00" result="0-3" matchPoint="9.903603070205502" date="2017-01-24T20:30:00.000Z" solo="true">
+            <groupId>12-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="32.16960228068092" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.03351631390163" top="1"/>
+            </team1>
+            <team2 teampoint="22.265999210475417" numOfShang="1">
+                <players id="12" name="Blue" rank="12" playerPoint="22.40208517725472" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170124_203000_000_01" result="1-1" matchPoint="9.669837238089972" date="2017-01-24T20:30:00.000Z" solo="true">
+            <groupId>12-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="32.038395720001986" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="31.99813476151839" top="1"/>
+            </team1>
+            <team2 teampoint="22.368558481912014" numOfShang="0">
+                <players id="12" name="Blue" rank="12" playerPoint="22.40881944039561" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20170125_103000_000_00" result="2-1" matchPoint="20.03038220987574" date="2017-01-25T10:30:00.000Z">
+            <groupId>8-16-19-25-_9-11-22-24-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="76.75075101056285" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.990925535734284" top="2"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.62977419973157" top="3"/>
+                <players id="19" name="crooks" rank="18" playerPoint="16.135950862410834" top="3"/>
+                <players id="25" name="kaka" playerPoint="16.001966529104614" top="3"/>
+            </team1>
+            <team2 teampoint="56.72036880068711" numOfShang="2">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.476504393086667" top="2"/>
+                <players id="11" name="Farmer" rank="12" playerPoint="22.23993134939122" top="2"/>
+                <players id="22" name="Guido" rank="21" playerPoint="4.9960669417907715" top="4"/>
+                <players id="24" name="ble" rank="23" playerPoint="3.996066941790771" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170125_113000_000_00" result="0-1" matchPoint="-6.0977025361166355" date="2017-01-25T11:30:00.000Z">
+            <groupId>8-16-22-26-_9-11-24-25-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="61.61676667725663" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="27.95149062431588" top="2"/>
+                <players id="16" name="fap" rank="16" playerPoint="16.590339288313167" top="3"/>
+                <players id="26" name="Majinbu" rank="23" playerPoint="11.960565088581598" top="3"/>
+                <players id="22" name="Guido" rank="24" playerPoint="4.917197118953966" top="4"/>
+            </team1>
+            <team2 teampoint="67.71446921337326" numOfShang="0">
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.51593930450507" top="2"/>
+                <players id="11" name="Farmer" rank="12" playerPoint="22.279366260809624" top="2"/>
+                <players id="25" name="kaka" rank="19" playerPoint="16.041401440523018" top="3"/>
+                <players id="24" name="ble" rank="26" playerPoint="4.0749367646275765" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20170125_120000_000_00" result="2-1" matchPoint="-0.3875457232317103" date="2017-01-25T12:00:00.000Z">
+            <groupId>4-7-14-_8-9-11-</groupId>
+            <map>Huge</map>
+            <team1 teampoint="75.74679618963057" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="28.055949450927493" top="2"/>
+                <players id="9" name="Hieupx" rank="9" playerPoint="25.620398131116684" top="2"/>
+                <players id="11" name="Farmer" rank="11" playerPoint="22.383825087421236" top="2"/>
+            </team1>
+            <team2 teampoint="76.13434191286228" numOfShang="0">
+                <players id="4" name="V" rank="4" playerPoint="32.16960228068092" top="1"/>
+                <players id="7" name="Doman" rank="7" playerPoint="26.326018984433553" top="2"/>
+                <players id="14" name="bikini" rank="14" playerPoint="17.325344167912974" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20170125_143000_000_00" result="2-1" matchPoint="13.49535442779758" date="2017-01-25T14:30:00.000Z">
+            <groupId>1-11-22-23-_7-8-14-26-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="83.68226040918412" numOfShang="0">
+                <players id="8" name="Sonic3k" rank="5" playerPoint="28.06450989388975" top="2"/>
+                <players id="7" name="Doman" rank="8" playerPoint="26.34896214472431" top="2"/>
+                <players id="14" name="bikini" rank="14" playerPoint="17.33390461087523" top="3"/>
+                <players id="26" name="Majinbu" rank="23" playerPoint="11.969125531543854" top="3"/>
+            </team1>
+            <team2 teampoint="70.18690598138654" numOfShang="0">
+                <players id="22" name="Guido" rank="24" playerPoint="4.900076233029454" top="4"/>
+                <players id="1" name="Tomcat" rank="1" playerPoint="38.53243121361615" top="1"/>
+                <players id="11" name="Farmer" rank="12" playerPoint="22.37526464445898" top="2"/>
+                <players id="23" name="peotuan" rank="25" playerPoint="4.327771232508424" top="4"/>
+            </team2>
+        </matches>
+    </history>
+</aoeLeague>

@@ -1,0 +1,40 @@
+/* CSS REQUIRED */
+.state-icon {
+    left: -5px;
+}
+.list-group-item-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(66, 139, 202);
+}
+
+/* DEMO ONLY - REMOVES UNWANTED MARGIN */
+.well .list-group {
+    margin-bottom: 0px;
+}
+
+.body-match {
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('../img/background/match-screen-1.png');
+}
+
+.list-players-background {
+    background-image:url('../img/background/greek-screen-1.png');
+}
+
+.player-theme-background {
+    background-image:url('../img/background/egypt-screen-3.jpg');
+}
+
+.match-label {
+    color: white;
+}
+/* .list-group {
+	-webkit-column-count: 2; Chrome, Safari, Opera
+    -moz-column-count: 2; Firefox
+    column-count: 2;
+} */
+
+.th-table-center {
+	text-align: center;
+}
