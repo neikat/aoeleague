@@ -102,16 +102,6 @@ public class GenerateMatchService {
 				matchTreeMap.put(matchPointAsAbs, new ArrayList<Match>());
 				matchTreeMap.get(matchPointAsAbs).add(match);
 			}
-			
-			//check balance
-			/*if (team1.getTeampoint() > team2.getTeampoint()) {
-				team2.setNumOfShang((int) (matchPointAsAbs / 10));
-				team1.setNumOfShang(0);
-			} else {
-				team1.setNumOfShang((int) (matchPointAsAbs / 10));
-				team2.setNumOfShang(0);
-			}*/
-			
 		}
 		
 		// print
@@ -123,17 +113,12 @@ public class GenerateMatchService {
 					break;
 				
 				matchesResult.add(match);
-				numOfMatchResults ++;
+				numOfMatchResults++;
 			}
 			
 		}
 		return matchesResult;
 	}
-	
-	/*public static double getPlayerPoint(Player player) {
-		double topPoint = 40 - player.getTop() * 10;
-		return topPoint + (player.getPoint() * Constants.PLAYER_POINT_MULTIPLIER);
-	}*/
 	
 	public static double getTeamPoint(Team team) {
 		double teamPoint = 0;
@@ -142,28 +127,6 @@ public class GenerateMatchService {
 		}
 		
 		return teamPoint;
-	}
-	
-	public static String getMatchAsString(Match match) {
-		String text = "";
-		for (Player player : match.getTeam1().getPlayers()) {
-			text += player.getName();
-			text += " ";
-		}
-		if (match.getTeam1().getNumOfShang() != null && match.getTeam1().getNumOfShang() > 0) {
-			text += "(" + match.getTeam1().getNumOfShang() + " Shang) ";
-		}
-		text += "vs ";
-		for (Player player : match.getTeam2().getPlayers()) {
-			text += player.getName();
-			text += " ";
-		}
-		if (match.getTeam2().getNumOfShang() != null && match.getTeam2().getNumOfShang() > 0) {
-			text += "(" + match.getTeam2().getNumOfShang() + " Shang) ";
-		}
-		text += "- ";
-		text += match.getMatchPoint();
-		return text;
 	}
 	
 	public static String getMatchWithScoreAsString(Match match) {

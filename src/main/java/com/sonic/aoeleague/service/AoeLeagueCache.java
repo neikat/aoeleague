@@ -1,14 +1,7 @@
 package com.sonic.aoeleague.service;
 
 import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.TreeMap;
-import java.util.TreeSet;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 import org.apache.commons.collections.CollectionUtils;
@@ -207,7 +200,10 @@ public class AoeLeagueCache {
 	}
 	
 	private Match getLatestMatch() {
-		return matchesCache.lastEntry().getValue();
+		if(matchesCache.lastEntry()!= null) {
+			matchesCache.lastEntry().getValue();
+		}
+		return null;
 	}
 	
 	private TreeSet<String> getGameIdsFrom(Calendar fromCal, Integer playerId) {
@@ -313,6 +309,9 @@ public class AoeLeagueCache {
 		teamResult.setLoseQuantity(teamResult.getMatchQuantity() - teamResult.getWinQuantity());
 		
 		Set<String> recentGameIds = getRecentGameIds(playerInfo.getId());
+		if (recentGameIds == null) {
+			recentGameIds = Collections.emptySet();
+		}
 		Set<String> recentWinGameIds = new TreeSet<String>(CollectionUtils.intersection(winGameIds, recentGameIds));
 		Set<String> recentSoloGameIds = new TreeSet<String>(CollectionUtils.intersection(soloGameIds, recentGameIds));
 		Set<String> recentSoloWinGameIds = new TreeSet<String>(CollectionUtils.intersection(soloWinGameIds, recentGameIds));
@@ -362,6 +361,8 @@ public class AoeLeagueCache {
 	
 	private TreeSet<String> getRecentGameIds(Integer playerId) {
 		Match latestMatch = getLatestMatch();
+		if (latestMatch == null)
+			return null;
 		Calendar latestCalendar = Utilities.toCalendar(latestMatch.getDate());
 		latestCalendar.add(Calendar.DATE, Constants.RECENT_RESULT_DAYS * -1);
 		latestCalendar.set(Calendar.HOUR, 0);
