@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<updateLogData updatedTime="2020-08-06T08:48:27.609+07:00">
+<updateLogData updatedTime="2020-08-06T19:19:59.936+07:00">
     <updateLogs matchId="20200806_082248_174_00">
         <updatePlayers id="4">
             <old rank="2" playerPoint="34.59566227167769" top="1"/>
@@ -314,6 +314,40 @@
         <updatePlayers id="11">
             <old rank="8" playerPoint="27.85416965064495" top="2"/>
             <new playerPoint="28.018917555900742"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20200806_191959_889_00">
+        <updatePlayers id="4">
+            <old rank="2" playerPoint="34.38577147182893" top="1"/>
+            <new playerPoint="34.495714058809675"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="3" playerPoint="34.34909001614961" top="1"/>
+            <new playerPoint="34.23914742916887"/>
+        </updatePlayers>
+        <updatePlayers id="1">
+            <old rank="4" playerPoint="32.77510462044462" top="1"/>
+            <new playerPoint="32.66516203346388"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="6" playerPoint="30.104617835525346" top="1"/>
+            <new playerPoint="30.214560422506093"/>
+        </updatePlayers>
+        <updatePlayers id="7">
+            <old rank="7" playerPoint="29.49597845594963" top="2"/>
+            <new playerPoint="29.386035868968882"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="8" playerPoint="28.018917555900742" top="2"/>
+            <new playerPoint="28.12886014288149"/>
+        </updatePlayers>
+        <updatePlayers id="9">
+            <old rank="9" playerPoint="21.217468805913658" top="2"/>
+            <new playerPoint="21.327411392894405"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="12" playerPoint="17.973067421828937" top="3"/>
+            <new playerPoint="17.830142058753967"/>
         </updatePlayers>
     </updateLogs>
 </updateLogData>
