@@ -1,26 +1,168 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<aoeLeague updatedTime="2020-08-03T13:17:53.006+07:00">
-    <players id="5" name="duonglm" rank="1" playerPoint="39.58381478049129" top="1"/>
-    <players id="4" name="vinhnh" rank="2" playerPoint="34.59566227167769" top="1"/>
-    <players id="21" name="anhhn" rank="3" playerPoint="34.23531401667084" top="1"/>
-    <players id="1" name="oanhnn" rank="4" playerPoint="33.08909630700376" top="1"/>
-    <players id="2" name="duypkk" rank="5" playerPoint="30.886162049268574" top="1"/>
-    <players id="3" name="datnh" rank="6" playerPoint="30.50185346993923" top="1"/>
-    <players id="7" name="vonh" rank="7" playerPoint="28.664000459888925" top="2"/>
-    <players id="9" name="kientt" rank="8" playerPoint="20.385490809852953" top="2"/>
-    <players id="8" name="duydq" rank="9" playerPoint="20.18767312426938" top="2"/>
-    <players id="10" name="cuongnn" rank="10" playerPoint="19.617454093741678" top="3"/>
-    <players id="6" name="hainb" rank="11" playerPoint="18.612076389698768" top="3"/>
-    <players id="11" name="giangnt" rank="12" playerPoint="18.170986057073893" top="3"/>
-    <players id="13" name="anhbn" rank="13" playerPoint="12.433665596563813" top="3"/>
-    <players id="12" name="thuongnv" rank="14" playerPoint="13.048720777323132" top="3"/>
-    <players id="15" name="ngocnd" rank="15" playerPoint="9.173387386793353" top="4"/>
-    <players id="16" name="xuantv" rank="16" playerPoint="9.054273781164355" top="4"/>
-    <players id="14" name="hungnv" rank="17" playerPoint="8.959410221924223" top="4"/>
+<aoeLeague updatedTime="2020-08-06T08:48:27.593+07:00">
+    <players id="5" name="duonglm" rank="1" playerPoint="39.5004062596073" top="1"/>
+    <players id="4" name="vinhnh" rank="2" playerPoint="34.38577147182893" top="1"/>
+    <players id="21" name="anhhn" rank="3" playerPoint="34.34909001614961" top="1"/>
+    <players id="1" name="oanhnn" rank="4" playerPoint="32.77510462044462" top="1"/>
+    <players id="2" name="duypkk" rank="5" playerPoint="30.45158426065099" top="1"/>
+    <players id="3" name="datnh" rank="6" playerPoint="30.104617835525346" top="1"/>
+    <players id="7" name="vonh" rank="7" playerPoint="29.49597845594963" top="2"/>
+    <players id="11" name="giangnt" rank="8" playerPoint="28.018917555900742" top="2"/>
+    <players id="9" name="kientt" rank="9" playerPoint="21.217468805913658" top="2"/>
+    <players id="8" name="duydq" rank="10" playerPoint="20.24447612252243" top="2"/>
+    <players id="10" name="cuongnn" rank="11" playerPoint="20.062145029793825" top="2"/>
+    <players id="6" name="hainb" rank="12" playerPoint="17.973067421828937" top="3"/>
+    <players id="12" name="thuongnv" rank="13" playerPoint="13.1225646750521" top="3"/>
+    <players id="13" name="anhbn" rank="14" playerPoint="12.507509494292782" top="3"/>
+    <players id="16" name="xuantv" rank="15" playerPoint="9.90195609525399" top="4"/>
+    <players id="15" name="ngocnd" rank="16" playerPoint="9.00657034502539" top="4"/>
+    <players id="14" name="hungnv" rank="17" playerPoint="8.79259318015626" top="4"/>
     <players id="17" name="sonlq" rank="18" playerPoint="7.0" top="4"/>
     <players id="18" name="anhdh" rank="19" playerPoint="6.0" top="4"/>
-    <players id="19" name="hopdv" rank="20" playerPoint="5.537415911053795" top="4"/>
+    <players id="19" name="hopdv" rank="20" playerPoint="4.742944642226018" top="4"/>
     <players id="20" name="thanhlq" rank="21" playerPoint="4.0" top="4"/>
     <history>
+        <matches id="20200806_082655_196_00" result="2-4" matchPoint="5.974921131939912" date="2020-08-06T08:26:55.196+07:00" solo="true">
+            <groupId>11-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="34.400116583562955">
+                <players id="4" name="vinhnh" playerPoint="34.240454219518675" top="1"/>
+            </team1>
+            <team2 teampoint="28.425195451623043">
+                <players id="11" name="giangnt" playerPoint="28.584857815667323" top="2"/>
+            </team2>
+        </matches>
+        <matches id="20200806_083153_676_00" result="5-0" matchPoint="-3.1660699755040156" date="2020-08-06T08:31:53.676+07:00">
+            <groupId>2-3-11-19-_4-7-9-16-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="92.34421927042492">
+                <players id="4" name="vinhnh" playerPoint="34.64520761097371" top="1"/>
+                <players id="7" name="vonh" playerPoint="29.068753851343953" top="2"/>
+                <players id="9" name="kientt" playerPoint="20.79024420130798" top="2"/>
+                <players id="16" name="xuantv" playerPoint="9.863780564074421" top="4"/>
+            </team1>
+            <team2 teampoint="95.51028924592893">
+                <players id="2" name="duypkk" playerPoint="30.481408657813546" top="1"/>
+                <players id="3" name="datnh" playerPoint="30.097100078484203" top="1"/>
+                <players id="11" name="giangnt" playerPoint="28.180104424212296" top="2"/>
+                <players id="19" name="hopdv" playerPoint="4.727909128143729" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20200806_083310_416_00" result="3-2" matchPoint="18.03929744879244" date="2020-08-06T08:33:10.416+07:00">
+            <groupId>4-7-9-16-_5-6-14-15-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="94.36798622770007">
+                <players id="4" name="vinhnh" playerPoint="34.64830027085608" top="1"/>
+                <players id="7" name="vonh" playerPoint="29.07184651122632" top="2"/>
+                <players id="9" name="kientt" playerPoint="20.793336861190348" top="2"/>
+                <players id="16" name="xuantv" playerPoint="9.869965883839157" top="4"/>
+            </team1>
+            <team2 teampoint="76.32868877890763">
+                <players id="5" name="duonglm" playerPoint="39.58072212060892" top="1"/>
+                <players id="6" name="hainb" playerPoint="18.60805593185169" top="3"/>
+                <players id="15" name="ngocnd" playerPoint="9.167202067028617" top="4"/>
+                <players id="14" name="hungnv" playerPoint="8.953224902159487" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20200806_083420_959_00" result="0-3" matchPoint="-15.62429372195183" date="2020-08-06T08:34:20.959+07:00">
+            <groupId>1-8-12-13-_4-7-9-16-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="78.75915580516008">
+                <players id="1" name="oanhnn" playerPoint="33.073101201296346" top="1"/>
+                <players id="8" name="duydq" playerPoint="20.17167801856196" top="2"/>
+                <players id="12" name="thuongnv" playerPoint="13.02792713990349" top="3"/>
+                <players id="13" name="anhbn" playerPoint="12.412871959144171" top="3"/>
+            </team1>
+            <team2 teampoint="94.3834495271119">
+                <players id="4" name="vinhnh" playerPoint="34.664295376563494" top="1"/>
+                <players id="7" name="vonh" playerPoint="29.08784161693374" top="2"/>
+                <players id="9" name="kientt" playerPoint="20.80933196689777" top="2"/>
+                <players id="16" name="xuantv" playerPoint="9.90195609525399" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20200806_083645_152_00" result="1-3" matchPoint="-17.17731726700505" date="2020-08-06T08:36:45.152+07:00">
+            <groupId>2-3-11-19-_5-6-14-15-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="76.30920502164871">
+                <players id="5" name="duonglm" playerPoint="39.573204363567775" top="1"/>
+                <players id="6" name="hainb" playerPoint="18.598282847698204" top="3"/>
+                <players id="15" name="ngocnd" playerPoint="9.152166552946328" top="4"/>
+                <players id="14" name="hungnv" playerPoint="8.938189388077198" top="4"/>
+            </team1>
+            <team2 teampoint="93.48652228865376">
+                <players id="2" name="duypkk" playerPoint="30.48892641485469" top="1"/>
+                <players id="3" name="datnh" playerPoint="30.104617835525346" top="1"/>
+                <players id="11" name="giangnt" playerPoint="28.187622181253438" top="2"/>
+                <players id="19" name="hopdv" playerPoint="4.742944642226018" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20200806_083854_577_00" result="3-2" matchPoint="2.423735166616453" date="2020-08-06T08:38:54.577+07:00">
+            <groupId>1-8-12-13-_5-6-14-15-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="78.68557831890597">
+                <players id="1" name="oanhnn" playerPoint="33.14589930525682" top="1"/>
+                <players id="8" name="duydq" playerPoint="20.24447612252243" top="2"/>
+                <players id="12" name="thuongnv" playerPoint="13.1225646750521" top="3"/>
+                <players id="13" name="anhbn" playerPoint="12.507509494292782" top="3"/>
+            </team1>
+            <team2 teampoint="76.26184315228952">
+                <players id="5" name="duonglm" playerPoint="39.5004062596073" top="1"/>
+                <players id="6" name="hainb" playerPoint="18.503645312549594" top="3"/>
+                <players id="15" name="ngocnd" playerPoint="9.00657034502539" top="4"/>
+                <players id="14" name="hungnv" playerPoint="8.79259318015626" top="4"/>
+            </team2>
+        </matches>
+        <matches id="20200806_083923_664_00" result="4-1" matchPoint="0.42898135989265285" date="2020-08-06T08:39:23.664+07:00" solo="true">
+            <groupId>21-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="34.664295376563494">
+                <players id="4" name="vinhnh" playerPoint="34.806893148467836" top="1"/>
+            </team1>
+            <team2 teampoint="34.23531401667084">
+                <players id="21" name="anhhn" playerPoint="34.0927162447665" top="1"/>
+            </team2>
+        </matches>
+        <matches id="20200806_084547_089_00" result="2-0" matchPoint="-11.036716025188014" date="2020-08-06T08:45:47.089+07:00">
+            <groupId>1-4-6-11-_7-9-10-21-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="103.60734392233968">
+                <players id="21" name="anhhn" playerPoint="34.463510929578696" top="1"/>
+                <players id="7" name="vonh" playerPoint="29.45863630174593" top="2"/>
+                <players id="9" name="kientt" playerPoint="21.18012665170996" top="2"/>
+                <players id="10" name="cuongnn" playerPoint="20.099487183997525" top="3"/>
+            </team1>
+            <team2 teampoint="114.6440599475277">
+                <players id="4" name="vinhnh" playerPoint="34.43609846365564" top="1"/>
+                <players id="1" name="oanhnn" playerPoint="32.77510462044462" top="1"/>
+                <players id="11" name="giangnt" playerPoint="27.81682749644125" top="2"/>
+                <players id="6" name="hainb" playerPoint="18.021612222293747" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20200806_084702_112_00" result="2-0" matchPoint="9.872977094674226" date="2020-08-06T08:47:02.112+07:00">
+            <groupId>2-4-6-10-_7-9-11-21-</groupId>
+            <map>Gigantic</map>
+            <team1 teampoint="112.91910137947583">
+                <players id="21" name="anhhn" playerPoint="34.500853083782395" top="1"/>
+                <players id="7" name="vonh" playerPoint="29.49597845594963" top="2"/>
+                <players id="11" name="giangnt" playerPoint="27.85416965064495" top="2"/>
+                <players id="9" name="kientt" playerPoint="21.217468805913658" top="2"/>
+            </team1>
+            <team2 teampoint="103.0461242848016">
+                <players id="4" name="vinhnh" playerPoint="34.39875630945194" top="1"/>
+                <players id="2" name="duypkk" playerPoint="30.45158426065099" top="1"/>
+                <players id="10" name="cuongnn" playerPoint="20.062145029793825" top="2"/>
+                <players id="6" name="hainb" playerPoint="17.973067421828937" top="3"/>
+            </team2>
+        </matches>
+        <matches id="20200806_084827_592_00" result="2-4" matchPoint="6.696349726439777" date="2020-08-06T08:48:27.592+07:00" solo="true">
+            <groupId>11-_4-</groupId>
+            <map>Large</map>
+            <team1 teampoint="34.550519377084726">
+                <players id="4" name="vinhnh" playerPoint="34.38577147182893" top="1"/>
+            </team1>
+            <team2 teampoint="27.85416965064495">
+                <players id="11" name="giangnt" playerPoint="28.018917555900742" top="2"/>
+            </team2>
+        </matches>
     </history>
 </aoeLeague>
