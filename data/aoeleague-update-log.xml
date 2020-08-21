@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<updateLogData updatedTime="2020-08-06T19:19:59.936+07:00">
+<updateLogData updatedTime="2020-08-12T15:03:50.737+07:00">
     <updateLogs matchId="20200806_082248_174_00">
         <updatePlayers id="4">
             <old rank="2" playerPoint="34.59566227167769" top="1"/>
@@ -348,6 +348,86 @@
         <updatePlayers id="6">
             <old rank="12" playerPoint="17.973067421828937" top="3"/>
             <new playerPoint="17.830142058753967"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20200811_181245_328_00">
+        <updatePlayers id="4">
+            <old rank="2" playerPoint="34.495714058809675" top="1"/>
+            <new playerPoint="34.5164668677947"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="3" playerPoint="34.23914742916887" top="1"/>
+            <new playerPoint="34.218394620183844"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="6" playerPoint="30.214560422506093" top="1"/>
+            <new playerPoint="30.193807613521077"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="8" playerPoint="28.12886014288149" top="2"/>
+            <new playerPoint="28.149612951866505"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20200811_181331_233_00">
+        <updatePlayers id="4">
+            <old rank="2" playerPoint="34.5164668677947" top="1"/>
+            <new playerPoint="34.61303653069242"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="3" playerPoint="34.218394620183844" top="1"/>
+            <new playerPoint="34.12182495728612"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20200811_181404_289_00">
+        <updatePlayers id="5">
+            <old rank="1" playerPoint="39.5004062596073" top="1"/>
+            <new playerPoint="39.44490613072301"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="2" playerPoint="34.61303653069242" top="1"/>
+            <new playerPoint="34.66853665957671"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="3" playerPoint="34.12182495728612" top="1"/>
+            <new playerPoint="34.17732508617041"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="6" playerPoint="30.193807613521077" top="1"/>
+            <new playerPoint="30.138307484636783"/>
+        </updatePlayers>
+    </updateLogs>
+    <updateLogs matchId="20200812_150350_681_00">
+        <updatePlayers id="5">
+            <old rank="1" playerPoint="39.44490613072301" top="1"/>
+            <new playerPoint="39.62860566592167"/>
+        </updatePlayers>
+        <updatePlayers id="4">
+            <old rank="2" playerPoint="34.66853665957671" top="1"/>
+            <new playerPoint="34.48483712437805"/>
+        </updatePlayers>
+        <updatePlayers id="21">
+            <old rank="3" playerPoint="34.17732508617041" top="1"/>
+            <new playerPoint="34.36102462136907"/>
+        </updatePlayers>
+        <updatePlayers id="1">
+            <old rank="4" playerPoint="32.66516203346388" top="1"/>
+            <new playerPoint="32.848861568662535"/>
+        </updatePlayers>
+        <updatePlayers id="2">
+            <old rank="5" playerPoint="30.45158426065099" top="1"/>
+            <new playerPoint="30.26788472545234"/>
+        </updatePlayers>
+        <updatePlayers id="3">
+            <old rank="6" playerPoint="30.138307484636783" top="1"/>
+            <new playerPoint="29.954607949438135" top="2"/>
+        </updatePlayers>
+        <updatePlayers id="11">
+            <old rank="8" playerPoint="28.149612951866505" top="2"/>
+            <new playerPoint="27.965913416667856"/>
+        </updatePlayers>
+        <updatePlayers id="6">
+            <old rank="12" playerPoint="17.830142058753967" top="3"/>
+            <new playerPoint="18.068951454512213"/>
         </updatePlayers>
     </updateLogs>
 </updateLogData>
