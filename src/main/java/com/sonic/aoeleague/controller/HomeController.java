@@ -25,7 +25,7 @@ import com.sonic.aoeleague.util.Utilities;
 public class HomeController {
     private static AoeLeagueCache aoeLeagueCache = AoeLeagueCache.getInstance();
 
-    @RequestMapping("/aoe")
+    @RequestMapping("/")
     public String  aoe(Model mav) {
         List<String> players = aoeLeagueCache.getListPlayerNames();
         mav.addAttribute("players", players);
